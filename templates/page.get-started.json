@@ -165,7 +165,9 @@
             "enable_video_looping": true,
             "heading1": "Proper Preheating",
             "description1": "Start on medium heat and wait until water droplets dance across the surface before adding ingredients. This ensures optimal cooking conditions.",
-            "video_url": "https://vimeo.com/1015539972?share=copy"
+            "video_url": "https://vimeo.com/1015539972?share=copy",
+            "cover_image": "shopify://shop_images/Image_7_2.png",
+            "cover_image_mobile": "shopify://shop_images/Image_7_3.png"
           }
         },
         "video_block_fnjwiD": {
