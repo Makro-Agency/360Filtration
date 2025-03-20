@@ -221,7 +221,9 @@
         "video_AeC6JE": {
           "type": "video",
           "settings": {
+            "video_cover_image": "shopify://shop_images/Screenshot_2024-10-03_at_1.09.00_AM.png",
             "video_url": "https://cdn.shopify.com/videos/c/o/v/d4e497ad6e9d4033a832d8b4d1fac9ba.mp4",
+            "reviews_image": "shopify://shop_images/reviews_64e638d0-51f8-451c-a82a-1fcdda2e389c_1.png",
             "auther_message": "Absolutely love my new pans. Incredible construction. Easy temperature control and cleaning and healthy cooking. Well worth it.",
             "auther_name": "Cindy T.",
             "auther_verification": "Verified Buyer"
