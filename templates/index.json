@@ -679,6 +679,8 @@
         "article_card_f64yTz": {
           "type": "article_card",
           "settings": {
+            "desktop_image": "shopify://shop_images/Image_7_49080cc7-2aea-4d02-95c5-b3df2852c853.png",
+            "mobile_image": "shopify://shop_images/Image_7_49080cc7-2aea-4d02-95c5-b3df2852c853_1.png",
             "heading": "Best Non-Toxic Slow Cookers",
             "description": "First invented in the 1930s, the slow cooker has become one of the most popular kitchen appliances, and with good reason. You can start a dish in the morning before heading out the door, and come home after work to a hot, delicious meal.",
             "link": "https://www.360cookware.com/blogs/360-cookware-blog/best-non-toxic-slow-cookers"
