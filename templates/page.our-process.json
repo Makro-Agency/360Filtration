@@ -251,7 +251,8 @@
         "process_item_right_maccQP"
       ],
       "settings": {
-        "title": "Our Green Manufacturing Promise"
+        "title": "Our Green Manufacturing Promise",
+        "svgicon": "shopify://shop_images/Icon_1.svg"
       }
     },
     "home_cookware_ktUFfg": {
