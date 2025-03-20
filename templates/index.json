@@ -14,6 +14,7 @@
       "blocks": {
         "block_AbGEEH": {
           "type": "block",
+          "disabled": true,
           "settings": {
             "slide_heading": "",
             "slide_subtext": "",
@@ -23,6 +24,7 @@
         },
         "block_jQ4TBY": {
           "type": "block",
+          "disabled": true,
           "settings": {
             "slide_heading": "",
             "slide_subtext": "",
@@ -43,6 +45,7 @@
         },
         "block_8nGQLB": {
           "type": "block",
+          "disabled": true,
           "settings": {
             "slide_heading": "",
             "slide_subtext": "",
