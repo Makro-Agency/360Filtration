@@ -149,6 +149,8 @@
         "hotspot_DxhVjJ"
       ],
       "settings": {
+        "image": "shopify://shop_images/8-removebg-preview_1_2.png",
+        "image_mobile": "shopify://shop_images/8-removebg-preview_1_2.png",
         "title": "Cooking Smarter with Stainless Steel",
         "urltext": "Discover the 360 Catalog",
         "url": "shopify://pages/catalog"
