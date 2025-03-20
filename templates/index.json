@@ -257,7 +257,9 @@
             "banner_heading": "Bake Like a Pro",
             "banner_description": "Premium bakeware for culinary mastery. Durable, efficient, and designed for baking perfection.",
             "banner_link": "shopify://collections/360-bakeware",
-            "banner_button_text": "Shop Bakeware"
+            "banner_button_text": "Shop Bakeware",
+            "desktop_image": "shopify://shop_images/Frame_6231_1.png",
+            "mobile_image": "shopify://shop_images/image-card-2-mob_84ff803f-29e0-443a-a276-653acb810aa7_1.png"
           }
         }
       },
