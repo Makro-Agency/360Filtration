@@ -607,6 +607,7 @@
         "bottom_block_xrUDX8": {
           "type": "bottom-block",
           "settings": {
+            "icon": "shopify://shop_images/Frame_6175_1_07dc6754-06a0-4767-ac3f-7e67e0736472.svg",
             "title": "Product Care Guide",
             "des": "<p>Learn how to properly use and maintain your cookware for optimal performance and longevity.</p>",
             "btn-text": "Explore Now",
@@ -616,6 +617,7 @@
         "bottom_block_tYrWFy": {
           "type": "bottom-block",
           "settings": {
+            "icon": "shopify://shop_images/Frame_6175_2.svg",
             "title": "Explore the Catalog",
             "des": "<p>Discover our full range of cookware, bakeware, and accessories to complete your kitchen setup.</p>",
             "btn-text": "Explore Now",
@@ -625,6 +627,7 @@
         "bottom_block_fUtX9T": {
           "type": "bottom-block",
           "settings": {
+            "icon": "shopify://shop_images/Frame_6175_3.svg",
             "title": "Articles & Recipes",
             "des": "<p>Unlock your cooking potential with expert tips, tricks, and delicious recipes tailored for 360 Cookware.</p>",
             "btn-text": "Explore Now",
