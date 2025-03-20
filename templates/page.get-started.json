@@ -198,24 +198,29 @@
             "enable_video_looping": true,
             "heading1": "Resting Period",
             "description1": "After cooking, let your food rest in the pan for a few minutes. This allows flavors to settle and ensures even distribution of heat.",
-            "video_url": "https://vimeo.com/1015545149?share=copy"
+            "video_url": "https://vimeo.com/1015545149?share=copy",
+            "cover_image": "shopify://shop_images/Image_28_2.png",
+            "cover_image_mobile": "shopify://shop_images/Image_28_3.png"
           }
         },
         "icon_text_JXaXgd": {
           "type": "icon-text",
           "settings": {
+            "imageicon": "shopify://shop_images/meal_3.svg",
             "text": "Nutrient retention"
           }
         },
         "icon_text_yBNXnD": {
           "type": "icon-text",
           "settings": {
+            "imageicon": "shopify://shop_images/Frame_245d7616-c300-4823-af8d-a8703db71519_1.svg",
             "text": "Energy efficiency"
           }
         },
         "icon_text_XgQzQg": {
           "type": "icon-text",
           "settings": {
+            "imageicon": "shopify://shop_images/meal_4.svg",
             "text": "Enhanced flavors"
           }
         }
