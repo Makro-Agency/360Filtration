@@ -246,7 +246,9 @@
             "banner_heading": "Cook Like a Pro",
             "banner_description": "Premium pots and pans for culinary mastery. Durable, efficient, and designed for perfection.",
             "banner_link": "shopify://collections/360-cookware",
-            "banner_button_text": "Shop Cookware"
+            "banner_button_text": "Shop Cookware",
+            "desktop_image": "shopify://shop_images/Frame_6229_1.png",
+            "mobile_image": "shopify://shop_images/image-card-1-mob_adfd7a66-eabc-48fe-8560-c0685db526de_1.png"
           }
         },
         "banner_AcmLdb": {
