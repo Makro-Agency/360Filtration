@@ -689,6 +689,8 @@
         "article_card_BWQciU": {
           "type": "article_card",
           "settings": {
+            "desktop_image": "shopify://shop_images/Image_8.png",
+            "mobile_image": "shopify://shop_images/Image_8.png",
             "heading": "The Ultimate Guide to Stainless Steel Cookware",
             "description": "With so many different types of cookware on the market, stainless steel stands out for its durability, safety, and good looks. When you’re investing in new cookware for your home kitchen, stainless steel is the obvious choice!",
             "link": "https://www.360cookware.com/blogs/360-cookware-blog/the-ultimate-guide-to-stainless-steel-cookware"
