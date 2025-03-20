@@ -198,10 +198,14 @@
         "banner_description": "Top-tier cooking essentials. Precision-crafted for consistently delicious results.",
         "banner_link": "shopify://collections/360-cookware",
         "banner_button_text": "Shop Cookware",
+        "desktop_image": "shopify://shop_images/Frame_6229.png",
+        "mobile_image": "shopify://shop_images/image-card-1-mob_adfd7a66-eabc-48fe-8560-c0685db526de.png",
         "banner_heading_2": "Artisan Bakeware",
         "banner_description_2": "Unleash your inner pastry chef with our premium stainless steel bakeware.",
         "banner_link_2": "shopify://collections/360-bakeware",
-        "banner_button_text_2": "Shop Bakeware"
+        "banner_button_text_2": "Shop Bakeware",
+        "desktop_image_2": "shopify://shop_images/Frame_6231.png",
+        "mobile_image_2": "shopify://shop_images/image-card-2-mob_84ff803f-29e0-443a-a276-653acb810aa7.png"
       }
     },
     "169272982418e0436f": {
