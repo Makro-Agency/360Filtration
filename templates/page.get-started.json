@@ -497,6 +497,8 @@
           "settings": {
             "enable_video_looping": false,
             "video_url": "https://www.youtube.com/watch?v=Y_C4eOMDMmA",
+            "cover_image": "shopify://shop_images/Image_24_4.png",
+            "cover_image_mobile": "shopify://shop_images/Image_24_5.png",
             "whatneed": "Whats You'll Need:",
             "time": "20 mins",
             "difficult": "Easy",
@@ -509,6 +511,8 @@
           "settings": {
             "enable_video_looping": false,
             "video_url": "https://www.youtube.com/watch?v=WswLhc79_1g",
+            "cover_image": "shopify://shop_images/Image_25_4.png",
+            "cover_image_mobile": "shopify://shop_images/Image_25_4.png",
             "whatneed": "Whats You'll Need:",
             "time": "10 mins",
             "difficult": "Medium",
