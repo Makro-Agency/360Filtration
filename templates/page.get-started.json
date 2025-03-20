@@ -187,7 +187,9 @@
             "enable_video_looping": true,
             "heading1": "Low and Slow",
             "description1": "Reduce heat to low and let the vapor do its work. Resist the urge to lift the lid - trust the process!",
-            "video_url": "https://vimeo.com/1015546425?share=copy"
+            "video_url": "https://vimeo.com/1015546425?share=copy",
+            "cover_image": "shopify://shop_images/Low_SlowJam_2.png",
+            "cover_image_mobile": "shopify://shop_images/Low_SlowJam_3.png"
           }
         },
         "video_block_AY4qjf": {
