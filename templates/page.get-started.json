@@ -176,7 +176,9 @@
             "enable_video_looping": true,
             "heading1": "Creating the Vapor Seal",
             "description1": "Once you see steam escaping, spin the lid to form a water seal. Listen for a slight \"whoosh\" sound as the seal forms.",
-            "video_url": "https://vimeo.com/1015546641?share=copy"
+            "video_url": "https://vimeo.com/1015546641?share=copy",
+            "cover_image": "shopify://shop_images/Vapour_Seal_Image_2.png",
+            "cover_image_mobile": "shopify://shop_images/Vapour_Seal_Image_3.png"
           }
         },
         "video_block_AH3BCa": {
