@@ -521,6 +521,8 @@
           "settings": {
             "enable_video_looping": false,
             "video_url": "https://www.youtube.com/watch?v=VGyH6MHyDqQ",
+            "cover_image": "shopify://shop_images/Image_26_2.png",
+            "cover_image_mobile": "shopify://shop_images/Image_26_3.png",
             "whatneed": "Whats You'll Need:",
             "time": "15 mins",
             "difficult": "Easy",
