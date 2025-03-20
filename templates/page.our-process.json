@@ -276,7 +276,11 @@
           "type": "image_block",
           "settings": {
             "enable_video_looping": false,
+            "cover_image": "shopify://shop_images/Image_a8ec91ee-be91-4027-a443-b559b2fd82e5_2.png",
+            "cover_image_mobile": "shopify://shop_images/Image_a8ec91ee-be91-4027-a443-b559b2fd82e5_3.png",
+            "reviews_image": "shopify://shop_images/reviews_64e638d0-51f8-451c-a82a-1fcdda2e389c_5.png",
             "auther_message": "\"The quality of these pans is unmatched. They heat evenly, clean up easily, and have made cooking a joy again. Plus, knowing they're made in the USA with sustainable practices makes me feel good about my purchase.\"",
+            "auther_image": "shopify://shop_images/check-verified_3_1_17c09061-3b59-4ba4-ac36-06c490900dea.svg",
             "auther_name": "Michael R.",
             "auther_verification": "Verified Buyer",
             "prod": "stainless-steel-10-inch-fry-pan"
@@ -286,7 +290,11 @@
           "type": "image_block",
           "settings": {
             "enable_video_looping": false,
+            "cover_image": "shopify://shop_images/LumixSync_copy_2023-01-05_20_28_43_0000JpegFile_1_2.png",
+            "cover_image_mobile": "shopify://shop_images/LumixSync_copy_2023-01-05_20_28_43_0000JpegFile_1_3.png",
+            "reviews_image": "shopify://shop_images/reviews_64e638d0-51f8-451c-a82a-1fcdda2e389c_6.png",
             "auther_message": "“As a nutritionist, I'm thrilled to recommend 360 Cookware to my clients. It's the perfect blend of safe, non-toxic materials and superior cooking performance. My family enjoys healthier, more flavorful meals without worrying about harmful chemicals leaching into our food.”",
+            "auther_image": "shopify://shop_images/check-verified_3_1_17c09061-3b59-4ba4-ac36-06c490900dea.svg",
             "auther_name": "Sarah M.",
             "auther_verification": "Verified Buyer",
             "prod": "stainless-steel-6-quart-stockpot-with-cover"
