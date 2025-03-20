@@ -262,7 +262,11 @@
           "type": "image_block",
           "settings": {
             "enable_video_looping": false,
+            "cover_image": "shopify://shop_images/Image_fd1d78c0-d7b0-4c5b-8f8b-ed2f2f8a74c7_2.png",
+            "cover_image_mobile": "shopify://shop_images/Image_fd1d78c0-d7b0-4c5b-8f8b-ed2f2f8a74c7_3.png",
+            "reviews_image": "shopify://shop_images/reviews_64e638d0-51f8-451c-a82a-1fcdda2e389c_4.png",
             "auther_message": "“I've cooked with this cookware for over 15 years, and it still looks as good as the day I bought it. My husband and I cook all our meals at home, and we are constantly amazed at how easy it is to clean up after even the stickiest of meals.”",
+            "auther_image": "shopify://shop_images/check-verified_3_1.svg",
             "auther_name": "Debbie K.",
             "auther_verification": "Verified Buyer",
             "prod": "1-75-quart-saucepan"
@@ -299,7 +303,8 @@
         "banner_heading": "",
         "banner_description": "2% Reduced carbon footprint \nof local production",
         "banner_link": "shopify://pages/catalog",
-        "banner_button_text": "Bring American Craftsmanship to Your Kitchen"
+        "banner_button_text": "Bring American Craftsmanship to Your Kitchen",
+        "icon": "shopify://shop_images/Frame_6175_1.png"
       }
     },
     "custom_support_block_D8tC7B": {
