@@ -57,7 +57,6 @@
             "product": "stainless-steel-1-quart-saucepan-with-cover-new-logo",
             "title": "The Essentials Cookware Set",
             "description": "Experience healthier, more flavorful meals with Vapor® cooking technology, featuring a 1-quart saucepan and a 3.5-quart sauté pan for perfect vegetables, proteins, and side dishes.",
-            "product_image": "shopify://shop_images/product-media_1.png",
             "price": "$96.0",
             "compare_price": "$120.40",
             "button_text": "Upgrade to Set",
@@ -123,8 +122,8 @@
         "feature_media_j7QKNj": {
           "type": "feature-media",
           "settings": {
-            "icon": "shopify://shop_images/Frame.svg",
-            "title": "Stainless Surgical Steel",
+            "icon": "shopify://shop_images/Frame_2.svg",
+            "title": "Surgical Stainless Steel",
             "description": ""
           }
         },
@@ -140,7 +139,6 @@
           "type": "video-media",
           "settings": {
             "video_url": "",
-            "thumbnail": "shopify://shop_images/product-media.png",
             "title": "",
             "subtitle": "",
             "description": ""
