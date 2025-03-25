@@ -374,6 +374,17 @@
     },
     "172500374596313ea4": {
       "type": "apps",
+      "blocks": {
+        "yotpo_product_reviews_reviews_GfhKJA": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_reviews_GfhKJA"
+      ],
       "settings": {
         "include_margins": true
       }
