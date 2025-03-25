@@ -331,6 +331,7 @@
         },
         "videowise_xUHGmi": {
           "type": "videowise",
+          "disabled": true,
           "settings": {
             "videowise": "<div class=\"reeview-app-widget\" id=\"reeview-app-widget_6711271dfea4480029a403ec\"></div>"
           }
