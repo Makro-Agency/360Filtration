@@ -1,5 +1,5 @@
 .stainless-steel-pan {
-  background: #faf5eb;
+  background: #fafafa;
   padding-left: 125px;
   padding-right: 280px;
   padding-top: 150px;
@@ -48,7 +48,7 @@
   margin-top: 25px;
 }
 .pan_review {
-  background: #fcfbf7;
+  background: #ffffff;
   padding: 20px;
   border-radius: 10px;
   position: absolute;
@@ -123,7 +123,7 @@ color:#143744;
   font-family: "Hurricane";
   font-size: 32px;
   line-height: 100%;
-  color: #606d22;
+  color: #143744;
   position: absolute;
   right: auto;
   max-width: 188px;
@@ -149,6 +149,7 @@ color:#143744;
   right: calc(28.66% + 4.63% + 2rem);
   z-index: 1;
 }
+.pan_review.review3 .icon{ margin:0 auto; }
 .pan_review.review4 .heading {
   font-family: var(--font-body-family);
   color: #fcfbf7;

@@ -8,7 +8,7 @@
   cart-drawer .drawer__inner { overflow-x: hidden !important; border-width: 0; --color-background: 252, 251, 247; }
 
 /* sale-point */
-  cart-drawer .cart__block--sales-point { background: #A6BB3A; padding-block: 10px; color: #fff; }
+  cart-drawer .cart__block--sales-point { background: #143744; padding-block: 10px; color: #fff; }
   cart-drawer .cart__block--sales-point path { stroke: currentColor; }
   cart-drawer .cart__sales-point { font-weight: 700; text-transform: capitalize; }
 /* sale-point */
@@ -16,18 +16,18 @@
   .cart-drawer .drawer__header { padding: 2.4rem 4rem; }
   .cart-drawer .drawer__header .drawer__heading { margin-bottom: 0; font-size: 24px; line-height: 90%; text-transform: uppercase; }
   .cart-drawer .drawer__header .drawer__close { min-height: 1px; min-width: 1px; }
-  .cart-drawer .drawer__header .drawer__close svg { height: 1.6rem; width: 1.6rem; color: #CCCBCB; }
+  .cart-drawer .drawer__header .drawer__close svg { height: 1.6rem; width: 1.6rem; color: #143744; }
   .cart-drawer .drawer__header .drawer__close path { stroke: currentColor; }
 /* drawer header  */
 /* drawer progressbar */
   cart-drawer .drawer-progressbar { padding: 1.8rem 4rem; gap: 1rem; display: flex; flex-direction: column; background: #FAF5EB; }
-  .drawer-progressbar .progress-container { width: 100%; background-color: #0000000D; border-radius: 100px; height: 5px; position: relative; display: flex; align-items: center; }
-  .progress_shipping_icon { position: absolute; top: calc(50% - 1.3rem); width: 2.6rem; height: 2.6rem; display: inline-flex; padding: 0.6rem; border-radius: 100px; background: #EDE9DF;; right: 0; z-index: 1; color: #A6BB3A; }
+  .drawer-progressbar .progress-container { width: 100%; background-color: #143744; border-radius: 100px; height: 5px; position: relative; display: flex; align-items: center; }
+  .progress_shipping_icon { position: absolute; top: calc(50% - 1.3rem); width: 2.6rem; height: 2.6rem; display: inline-flex; padding: 0.6rem; border-radius: 100px; background:#143744; right: 0; z-index: 1; color: #ffffff; }
   .progress_shipping_icon svg { display: block; width: 100%; height: 100%; }
-  .drawer-progressbar .progress-bar { height: 5px; width: 25%; background-color: #A6BB3A; border-radius: 5px 0 0 5px; transition: width 0.4s ease; }      
+  .drawer-progressbar .progress-bar { height: 5px; width: 25%; background-color: #143744; border-radius: 5px 0 0 5px; transition: width 0.4s ease; }      
   .drawer-progressbar-text { position: relative; padding-right: 3.1rem; }
   .drawer-progressbar-text p { font-size: 14px; font-weight: 600; line-height: 1.5; margin: 0; }
-  .drawer-progressbar-text p span { color: #606D22; }
+  .drawer-progressbar-text p span { color: #143744; }
 /* drawer progressbar  */
 
   .close-icon-drawer {

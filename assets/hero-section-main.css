@@ -176,6 +176,11 @@
   position:relative;
 }
 }
-
+@media screen and (min-width: 750px){
+    #full-blend-hero-section img.hero-image-mobile { display:none !Important; } }
+@media screen and (max-width: 749px){
+    #full-blend-hero-section .full-blend-hero-section-container-mobile-image img{ display:none !important; }
+    #full-blend-hero-section .full-blend-hero-section-container-mobile-image img{ display:none !Important; }
+    #full-blend-hero-section .hero-image.desktop { display:none !Important; } }
 @media screen and (max-width: 576px){
 #full-blend-hero-section .full-blend-hero-section-container-box .button.cta_button{ max-width:100%; width:100%; } }

@@ -24,7 +24,7 @@
   text-align: center;
   display: block;
 }
-
+.review-start-align svg path{     fill: #143744; }
 .navbar .navbar-nav {
   list-style: none;
   margin: 0;
@@ -169,7 +169,7 @@ a {
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
-  color: #000000;
+  color: #04232F;
 }
 .header-wrap-para {
   padding-top: 5px;

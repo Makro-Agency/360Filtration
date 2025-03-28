@@ -49,7 +49,7 @@
 .dropdown_menu {
     display: none;
     position: absolute;
-    background-color: #fcfbf7;
+    background-color: #ffffff; 
     width: 100%;
     /* box-shadow: 0 8px 16px #0003; */
     z-index: 1;
@@ -106,8 +106,11 @@
 }
 
 .header-header-text {
-  font-family: Proxima Nova;
-  font-size: 12px;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0%;
+  color:#04232F;
   font-weight: 600;
   line-height: 18px;
 }
@@ -122,7 +125,7 @@
 }
 
 .header-header-text-list ul li a {
-  font-family: Proxima Nova;
+
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -131,9 +134,9 @@
 }
 
 .header-shop-right span a {
-  font-family: Proxima Nova;
+
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 16px;
   color: #000000;
   display: flex;
@@ -237,7 +240,7 @@
 }
 
 .product-360-para p {
-  font-family: Proxima Nova;
+
   font-size: 14px;
   font-weight: 400;
   line-height: 21px;
@@ -245,19 +248,19 @@
 }
 
 .product-360-link a {
-  font-family: Proxima Nova;
+
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 16px;
   color: #0d0d0d;
   display: flex;
   gap: 5px;
 }
-
+.image-width-text-header .product-360-para{ margin-top:5px; }
 .product-360-category-inner {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 10px;
   text-align:left;
 }
 a.product-360-category-inner{
@@ -377,7 +380,7 @@ a.product-360-category-inner:hover .product-360-link{
   border-radius:10px;
 }
 .review-start-align svg path{
-  fill:#606D22;
+  fill:#143744;
 }
 
 .header-wrap-title p, .header-wrap-para p{
@@ -386,7 +389,7 @@ a.product-360-category-inner:hover .product-360-link{
 .mega-head-new{
   margin-bottom:20px;
 }
-
+.common-h5.product-360-header{ margin-top:10px; }
 .navbar a.custom-menu-products{
   display: flex;
   align-items: flex-start;
