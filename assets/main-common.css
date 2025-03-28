@@ -24,18 +24,27 @@ a:hover{
 .navabar-desktop .navbar_item .navbar_link:hover {
   font-weight: 700;
 }
-
+.card .card__heading_wrap .card__heading a{
+  font-family: var(--font-body-family); 
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0%;
+ }
 .card-wrapper .card--card:hover .card__heading a{
     color: #c3d957 !important;
 }
 .link.makro--link{
-    font-weight: 600;
+    font-weight: 700;
     line-height: 100%;
     margin-top: 10px;
     border: none;
     font-size: 16px;
     display: flex;
+    font-family:var(--font-body-family); 
+    letter-spacing:0; 
     align-items: center;
+    color:#04232F; 
+    text-transform:capitalize; 
     gap: 5px;
     text-decoration: none;
 }
@@ -63,7 +72,7 @@ a:hover{
 }
 /* heading */
 .insta-heading a{
-   color:#606D22;
+   color:#143744; 
 }
 .service-content:hover .main_heading{
      color:#c3d957 !important;
@@ -112,7 +121,7 @@ a:hover{
 .auther-content .right-arrow,
 .swiper-button-div .swiper-button-prev,
 .swiper-button-div .swiper-button-next{
-    background-color: #606d22;
+    background-color:#143744;
     color: #fcfbf7;
     border-radius: 100px;
     height: 50px;
@@ -132,11 +141,11 @@ a:hover{
 
 /* button hover and custome */
 .button.cta_button {
-  background: #606D22;
+  background: #143744;
   color: #FCFBF7;
-  font-size: 16px;
-  line-height: 100%;
-  font-weight: 600;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
   border-radius: 100px;
   padding: 15px 25px;
   letter-spacing: 0;

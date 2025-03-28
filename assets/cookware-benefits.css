@@ -10,13 +10,19 @@
   flex: 1;
 }
 .shopify-section .cookware-benifits-column .heading {
+  font-family: Playfair Display;
+  font-weight: 400;
   font-size: 32px;
+  line-height: 120%;
+  letter-spacing: -2%;
+  color: #04232F;
+
 }
 .title-wrapper .subtitle {
   font-family: 'Hurricane';
   font-size: 32px;
   line-height: 100%;
-  color: #606d22;
+  color: #143744;
   position: absolute;
   right: 0;
   max-width: 188px;
@@ -62,8 +68,13 @@
   top: 0;
   left: 0;
 }
+span.rating-text{    
+  font-family: Playfair Display;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 100%; }
 .ratings-badge {
-  background: #606D22;
+  background: #143744;
   padding: 10px 15px;
   border-radius: 10px;
   display: flex;
@@ -80,17 +91,26 @@
   font-family: var(--font-heading-family);
 }
 .review-badge {
-  background: #A6BB3A;
+  background: #728F9A;
   padding: 10px 15px;
   border-radius: 10px;
   font-size: 16px;
-  font-weight: 600;
   line-height: 150%;
+  letter-spacing: 0%;
   color: #FCFBF7;
   margin-left: 45px;
   margin-top: -17px;
   max-width: max-content;
 }
+.cookware-benefits  .main_heading {
+  font-family: Playfair Display;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 100%;
+  letter-spacing: -2%;
+  color:#04232F;
+  margin-bottom:30px; 
+   }
 @media screen and (max-width: 989px) {
   .cookware-benefits {
     flex-direction: column;

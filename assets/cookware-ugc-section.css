@@ -17,7 +17,7 @@
   margin: 0 0 40px;
 }
 .banner-group .banner {
-  background: #FAF5EB;
+  background: #FAFAFA;
   border-radius: 15px;
   position: relative;
   line-height: 0;
@@ -30,6 +30,7 @@
 .banner-group .card-content .link.makro--link {
   margin-top: 20px;
   font-size: 14px;
+  color: #04232F;
 }
 
 .video-group-wrapper {

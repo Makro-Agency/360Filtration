@@ -134,7 +134,7 @@ body,
 body .swym-ui-component *,
 body .swym-ui-component .swym-is-button,
 body .swym-ui-component .swym-is-anchor {
-font-family: "Proxima Nova";
+font-family: var(--font-body-family);
 letter-spacing: 0;
 }
 a,
@@ -191,8 +191,8 @@ body .swym-ui-component .swym-title,
 body .swym-ui-component .swym-heading,
 body .swym-ui-component .swym-label,
 .heading-font {
-font-family: Cellofy;
-font-weight: 600;
+font-family: var(--font-heading-family);
+font-weight: 400;
 }
 .pt-0 {
 padding-top: 0 !important;
@@ -371,25 +371,29 @@ max-width: 1360px;
 margin: auto;
 }
 .main_heading {
-/* font-size: 60px; */
-line-height: 100%;
-font-weight: 600;
-color: #000000;
-letter-spacing: -1.2px;
+  font-family: Playfair Display;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 100%;  
+color:#04232F;
+letter-spacing: -0.02em;
 margin: 0 0 10px;
 }
 .shopify-section .heading {
 font-size: 24px;
 line-height: 120%;
 letter-spacing: -0.48px;
-font-weight: 600;
-color: #000000;
+font-weight: 400;
+color: #04232F;
 margin: 0 0 5px;
 }
 p.desc, .desc {
-font-weight: 400;
-color: #090909;
-font-size: 16px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  vertical-align: bottom;
+  color: #04232F;
 line-height: 150%;
 margin: 0;
 }
@@ -406,9 +410,11 @@ gap: 5px;
 text-decoration: none;
 } */
 
- .shopify-section {
+ /* .shopify-section {
 background-color: #FCFBF7;
-} 
+}  */
+
+
 .advantag-inner-icon-header-text-main .advantage-image-with-txt .image{
       width: 80px !important;
 }

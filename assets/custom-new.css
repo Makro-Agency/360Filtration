@@ -275,8 +275,8 @@ cart-drawer .drawer__inner{
   font-weight: 600;
 } */
 .get-started-360 .grid-item h3{
-  color:#000;
-  font-weight: 600;
+  color:#04232F; 
+  font-weight: 400;
 }
 .layout1-trans .header.index-header .navbar_item > div.navbar_link {
   color: #FCFBF7;
@@ -351,7 +351,7 @@ cart-drawer .drawer__inner{
 }
 
 .service-block .service-content p,.service-block .service-content a{
-  color:#000;
+  color:#04232F; 
 }
 
 .card-descc{

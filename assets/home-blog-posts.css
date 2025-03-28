@@ -33,12 +33,15 @@
 .home-blog-posts .article-cards .card__heading a:after {
   visibility:hidden;
 }
+.home-blog-posts p.article-card__excerpt.rte-width{     color: #04232F; }
 .home-blog-posts .article-cards .card__heading {
-  font-size: 24px;
-    line-height: 120%;
-    letter-spacing: -.48px;
-    font-weight: 600;
-    color: #000;
+  font-family: Playfair Display;
+font-weight: 400;
+font-size: 32px;
+line-height: 120%;
+letter-spacing: -2%;
+    font-size: 24px;
+    color: #04232F; 
     margin: 0 0 5px;
 }
 .home-blog-posts .underline-links-hover:hover .readMore-link {opacity: 1;}
@@ -79,7 +82,7 @@
   align-items: center;
 }
 .article-newtab ul li.active {
-  background: #606d22;
+  background:#143744; 
 }
 .article-newtab ul li{
   border-radius: 100px;
@@ -88,7 +91,11 @@
 .article-newtab ul li a {
   padding: 10px 25px;
   border-radius: 100px;
-  color: #0d0d0d;
+  color: #04232F; 
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0%;
   display: block;
 }
 .article-newtab ul li.active a {
