@@ -91,9 +91,10 @@ a:hover{
 .cmn-menu-product:hover .boxhover-bg,
 .category-image-text-link:hover,
 .image-width-text-header:hover{
-  background:#FAF5EB;
-  color: #000;
+  background:#fafafa;
+  color:#04232F;
 }
+
 
 /* slider nav */
 .makro-product-carousel-wrapper .slide-nav .nav-btn{

@@ -70,8 +70,15 @@ a.button.cta_button.small-hide.medium-hide.top-button-class{ display:none; }
   letter-spacing: 0%;
   color:#04232F; 
    }
+   .makro-PC-grid{ align-items: flex-start; }
 .card .price .price__sale .price-item--last,
-.card .price .price__container>.price__regular { font-weight: 600; }
+.card .price .price__container>.price__regular { 
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color:#04232F;
+   }
 .card .price__sale .price-item--regular { font-size: inherit; color: #CCCCCC; margin-right: 0; font-weight: 400; }
 
 .card-product-new>.media-content {  position: absolute; }  

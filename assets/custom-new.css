@@ -211,8 +211,8 @@ body:not(.smart-cart--enabled) .product-form__submit {
 }
 
 .cart__ctas .cart__checkout-button.button{
-  background-color: #606D22;
-  border-color:#606D22;
+  background-color: #143744;
+  border-color:#143744;
   border-radius:100px;
   text-transform:capitalize;
 }
@@ -322,7 +322,8 @@ cart-drawer .drawer__inner{
 }
 
 .dropdown_menu-inner .common-h5 h5{
-  color: #000;
+  color: #143744;
+  font-weight:600; 
   margin-bottom: 7px;
 }
 .swell-tab{
@@ -356,6 +357,11 @@ cart-drawer .drawer__inner{
 
 .card-descc{
   display: -webkit-box;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+    color: rgb(0, 0, 0, 0.4);
+    letter-spacing: 0%;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;

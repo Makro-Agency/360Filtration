@@ -111,7 +111,7 @@
     font-size: 12px;
     line-height: 150%;
     font-weight: 600;
-    color: #A6BB3A;
+    color: #728F9A;
 }
 @media screen and (max-width: 1199px) {
   .cookware-ugc-section .banner-group-wrapper {
@@ -152,7 +152,12 @@
     flex: auto;
   }
 }
+@media screen and (min-width: 750px) {
+  .chef-section .video-group .cover-image img.img-mobile{ display:none; }
+
+}
 @media screen and (max-width: 749px) {
+  .chef-section .video-group .cover-image img.img-desktop{ display:none; }
   .banner-group {
     gap: 20px;
     flex-wrap: wrap;
