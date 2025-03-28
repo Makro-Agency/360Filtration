@@ -131,6 +131,7 @@ color:#143744;
   transform: rotate(-10deg);
   left: 14.75%;
   bottom: -8.33%;
+  z-index:1; 
 }
 .pan_review.review3 {
   max-width: 264px;

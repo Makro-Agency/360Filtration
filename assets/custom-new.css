@@ -115,9 +115,9 @@ ol.breadcrumb{
     line-height: 18px;
     padding: 1px 10px;
     border-radius: 100px;
-    background: #e6a817;
+    background: #A5DDF2;
     text-decoration: none;
-    color: #fcfbf7;
+    color: #ffffff;
     display: inline-flex;
 }
 .choice-button {
@@ -139,7 +139,7 @@ ol.breadcrumb{
     line-height: 18px;
     padding: 1px 10px;
     border-radius: 100px;
-    background: #606d22;
+    background: #143744;
     text-decoration: none;
     color: #fcfbf7;
     display: inline-flex;
