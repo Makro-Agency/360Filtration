@@ -287,10 +287,12 @@
       "blocks": {
         "video_block_iNWhir": {
           "type": "video_block",
-          "disabled": true,
           "settings": {
             "enable_video_looping": true,
             "video_url": "https://vimeo.com/1015538731?share=copy",
+            "cover_image": "shopify://shop_images/Image_51.png",
+            "cover_image_mobile": "shopify://shop_images/Image_51.png",
+            "reviews_image": "shopify://shop_images/Frame_6176_1.png",
             "auther_message": "Absolutely love my new pans. Incredible construction. Easy temperature control and cleaning and healthy cooking. Well worth it.",
             "auther_name": "",
             "auther_verification": "Verified Buyer"
@@ -298,10 +300,12 @@
         },
         "video_block_fkwX3e": {
           "type": "video_block",
-          "disabled": true,
           "settings": {
             "enable_video_looping": true,
             "video_url": "https://vimeo.com/1015538814?share=copy#t=0",
+            "cover_image": "shopify://shop_images/Image_52.png",
+            "cover_image_mobile": "shopify://shop_images/Image_52.png",
+            "reviews_image": "shopify://shop_images/Frame_6176_1.png",
             "auther_message": "We love 360 cookware as well as the company. Stainless steel pots and pans are so superior to the coated and aluminum types!",
             "auther_name": "",
             "auther_verification": "Verified Buyer"
