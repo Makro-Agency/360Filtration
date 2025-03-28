@@ -11,7 +11,7 @@
 }
 .stainless-steel-pan::after {
   content: "";
-  background-image: url(Ellipse.png);
+  background-color:#FAFAFA;
   background-repeat: no-repeat;
   background-position: left center;
   position: absolute;
@@ -20,7 +20,6 @@
   height: 100%;
   z-index: 0;
   top: 0;
-  mix-blend-mode: multiply;
 }
 .image-wrapper {
   position: relative;
@@ -68,28 +67,45 @@
 .pan_review .auther-image {
   line-height: 0;
 }
-.pan_review .auther-name {
+.pan_review.review2 .author-name{ 
+  font-weight: 700;
   font-size: 16px;
-  font-weight: 600;
-  color: #090909;
   line-height: 150%;
+  letter-spacing: 0%;
+  vertical-align: bottom;
+  color:#04232F; 
+  
+}
+.pan_review .auther-name {
+color:#04232F;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0%;
+vertical-align: bottom;
 }
 .pan_review .auther-verification {
+  font-weight: 700;
   font-size: 12px;
   line-height: 150%;
-  font-weight: 600;
-  color: #a6bb3a;
+  letter-spacing: 0%;
+  vertical-align: bottom;
+  
 }
 .pan_review.review2 .auther-verification {
-  color: #606d22;
+  color: #728F9A;
 }
 
 .pan_review .auther-message .heading {
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: normal;
-  font-family: "Proxima Nova";
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0%;
+font-family:var(--font-body-family);
   color: #090909;
+}
+.pan_review.review1 .auther-verification span{
+color:#143744; 
 }
 .pan_review.review1 {
   max-width: 395px;
@@ -127,20 +143,21 @@
   gap: 20px;
 }
 .pan_review.review4 {
-  background: #a6bb3a;
+  background: #728F9A; 
   padding: 10px 15px;
   top: 16.79%;
   right: calc(28.66% + 4.63% + 2rem);
   z-index: 1;
 }
 .pan_review.review4 .heading {
-  font-family: "Proxima Nova";
+  font-family: var(--font-body-family);
   color: #fcfbf7;
   font-weight: 700;
+  letter-spacing:0; 
   font-size: 16px;
 }
 .pan_review.review4 .heading.h3 {
-  font-weight: 600;
+ font-family:var(--font-body-family);
   font-size: 14px;
 }
 @media only screen and (max-width: 1850px) {

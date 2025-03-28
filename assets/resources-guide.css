@@ -53,11 +53,25 @@
   display: flex;
   justify-content: space-between;
 }
+.resources-guide-section .button.cta_button{ height:40px; 
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color:#143744;
+   }
 .collapsible-content-wrapper button.accordion-button .heading {
   margin: 0;
   padding-right: 10px;
+font-family: Playfair Display;
+font-weight: 400;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0;
+
   font-size: 24px;
-  color: #0D0D0D;
+  color: #04232F; 
 }
 .collapsible-content-wrapper .accordion-item .minus-icon {
   display: none
@@ -78,7 +92,7 @@
 }
 .accordion-content p {
   font-weight: 400;
-  color: #0D0D0D;
+  color: #04232F; 
   font-size: 16px;
   line-height: 150%;
   margin: 0;
@@ -92,20 +106,26 @@
   text-decoration: none;
 }
 .contact-block {
-  background: #606D22;
+  background: #143744; 
   padding: 30px;
   border-radius: 15px;
   max-width: 440px;
 }
+.resources-guide-wrapper .title-wrapper{ margin-bottom:4rem; }
 .makro-resources-guide .contact-block .main_heading {
+  font-family: Playfair Display;
+  font-weight: 400;
   font-size: 32px;
-  color: #FCFBF7;
+  line-height: 120%;
+  color:#fff; 
+  letter-spacing: -2%;
+  
   margin-bottom: 5px;
 }
 .makro-resources-guide .contact-block p.desc {color: #FCFBF7;}
 .makro-resources-guide .contact-block .cta_button.btn-light {
   background: #FCFBF7;
-  color: #606D22;
+  color: #143744;
   margin-top: 30px;
   font-size:14px;
 }
@@ -139,7 +159,7 @@
 }
 /*----------------service block---------------------*/
  .shopify-section.makro-resources-guide {
-    background: #FAF5EB;
+    background: #FAFAFA; 
   }
 @media only screen and (max-width: 749px){
   .makro-resources-guide .contact-block .main_heading{ font-size:24px; }
@@ -150,7 +170,7 @@
 @media only screen and (min-width: 749px){
 
   .shopify-section.makro-resources-guide {
-    background: #FAF5EB;
+    background: #FAFAFA; 
   }
 }
 @media only screen and (max-width: 1499px){
