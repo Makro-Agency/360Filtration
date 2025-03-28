@@ -17,9 +17,9 @@
         "simple_6pFHip": {
           "type": "simple",
           "settings": {
-            "announcement_message": "MADE IN THE USA WITH GLOBAL MATERIALS | WEST BEND WISCONSIN",
-            "cta_text": "Shop Now",
-            "cta_link": "shopify://collections/360s-essentials",
+            "announcement_message": "Announcement Message",
+            "cta_text": "CTA Copy Here",
+            "cta_link": "#",
             "cta_color": "#ffffff",
             "announcement_message_2": "Elevate Your Kitchen: Discover Our Premium Cookware Sets",
             "cta_text_2": "Shop Now",
