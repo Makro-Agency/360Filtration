@@ -393,7 +393,7 @@
         "image_with_text_YbYCbe": {
           "type": "image-with-text",
           "settings": {
-            "image": "shopify://shop_images/Image_3_f42ece0d-4aae-4f1e-a9e1-02198441171e.png",
+            "image": "shopify://shop_images/Image_53.png",
             "title": "Cookware",
             "text": "Experience superior stovetop performance with our Vapor® Technology-enabled stainless steel cookware.",
             "link": "shopify://collections/360-cookware",
@@ -403,7 +403,7 @@
         "image_with_text_MqF7KK": {
           "type": "image-with-text",
           "settings": {
-            "image": "shopify://shop_images/IMG_2394.png",
+            "image": "shopify://shop_images/IMG_2394_1_9978c2d8-b427-4cac-8fc7-7a970ff6e22f.png",
             "title": "Bakeware",
             "text": "Achieve bakery-worthy results with our durable bakeware, designed for even heat distribution and perfect outcomes every time.",
             "link": "shopify://collections/360-bakeware",
@@ -413,7 +413,7 @@
         "image_with_text_JFAVYi": {
           "type": "image-with-text",
           "settings": {
-            "image": "shopify://shop_images/Image_4_50f5861a-ff07-4730-813a-8908cbc3d32c.png",
+            "image": "shopify://shop_images/Image_54.png",
             "title": "Tools & Accessories",
             "text": "Enhance your cooking with our high-quality utensils and accessories, designed for functionality and precision to complement your 360 Cookware.",
             "link": "shopify://collections/accessories",
@@ -423,7 +423,7 @@
         "image_with_text_DgJVkn": {
           "type": "image-with-text",
           "settings": {
-            "image": "shopify://shop_images/Food-0005.png",
+            "image": "shopify://shop_images/Food-0005_3.png",
             "title": "Save on Sets",
             "text": "Upgrade your kitchen with our thoughtfully curated sets, offering everything you need for a complete cooking experience with great value.",
             "link": "shopify://collections/sets-1",
@@ -439,7 +439,7 @@
       ],
       "settings": {
         "heading": "Get Started with 360",
-        "description": "Equip your kitchen with the complete 360 Cookware collection. From stovetop to oven, we've crafted the perfect tools to elevate your cooking experience and bring out your inner chef."
+        "description": "Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis."
       }
     },
     "slider_hero_01_gwX7eN": {
