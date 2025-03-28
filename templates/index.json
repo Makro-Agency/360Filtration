@@ -677,8 +677,8 @@
           "settings": {
             "desktop_image": "shopify://shop_images/Image_5_5bd327b8-32d4-4255-9708-c894f671aed3.png",
             "mobile_image": "shopify://shop_images/Image_5_5bd327b8-32d4-4255-9708-c894f671aed3_1.png",
-            "heading": "Why Choose Stainless Steel Fry Pans: The Choice of Professional Chefs and Serious Home Cooks",
-            "description": "Whether you’re frying up breakfast eggs, preparing a grilled cheese sandwich for lunch, or cooking a steak for dinner, a good quality stainless steel fry pan is an irreplaceable part of your cookware collection.",
+            "heading": "Customer Spotlight: Transforming Kitchens with 360 Cookware",
+            "description": "Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. \nClass aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.",
             "link": "https://www.360cookware.com/blogs/360-cookware-blog/why-choose-stainless-steel-fry-pans"
           }
         },
@@ -755,10 +755,9 @@
         "recipe_card_zkYrdQ",
         "recipe_card_LAzGkJ"
       ],
-      "disabled": true,
       "settings": {
-        "title": "Articles & Recipes",
-        "description": "Discover the joy of cooking with our expert tips, mouthwatering recipes, and reviews of the finest pots, pans, and kitchen gadgets to elevate your culinary adventures. Copy",
+        "title": "Articles & Recipies",
+        "description": "Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Class aptent taciti sociosqu ad litora.",
         "link_text": "Blog Articles",
         "link_url": "",
         "recipe_link_text": "Selected Recipes",
@@ -770,6 +769,7 @@
     },
     "home_blog_post_6MpXUt": {
       "type": "home-blog-post",
+      "disabled": true,
       "settings": {
         "title": "Articles & Recipes",
         "description": "Discover the joy of cooking with our expert tips, mouthwatering recipes, and reviews of the finest pots, pans, and kitchen gadgets to elevate your culinary adventures. Copy",
