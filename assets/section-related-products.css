@@ -15,10 +15,12 @@
 }
 
 .related-products__heading{
-  color: #000;  
-  font-size: 40px;
-  font-weight: 600;
-  line-height: 100%; /* 36px */
+  font-family: Playfair Display;
+font-weight: 400;
+font-size: 40px;
+line-height: 100%;
+letter-spacing: -2%;
+color:#04232F; 
   letter-spacing: -0.02em;
 }
 
