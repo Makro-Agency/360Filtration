@@ -78,7 +78,8 @@
     max-width: 48.4%;
   }
   .banner-group-wrapper {
-      max-width: 508px;
+      max-width: 568px;
+      padding-left:7rem; 
       margin-left: auto;
   }
   .video-group-wrapper{
@@ -89,13 +90,12 @@
     padding-right: 28%;
   }
   .banner-group-wrapper .main_heading {
-    color: #000;
-    font-family: Cellofy;
+    font-family: Playfair Display;
+    font-weight: 400;
     font-size: 40px;
-    font-style: normal;
-    font-weight: 600;
     line-height: 100%;
-    letter-spacing: -0.8px;
+    letter-spacing: -2%;
+    color:#04232F; 
     padding-right: 100px;
   }
   .banner-group-wrapper p.desc{

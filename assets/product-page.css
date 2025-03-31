@@ -90,8 +90,8 @@
 
 .product__info-container .product-form .product-form__buttons .button--primary,
 .product__info-container .product-form .product-form__buttons .button--secondary { 
-  font-size: 16px; font-style: normal; font-weight: 600; line-height: 100%;
-  letter-spacing: 0.6px;text-transform: none; display:flex; align-items:center; gap:10px;
+  font-size: 16px; font-style: normal; font-weight: 700; line-height: 100%;
+  letter-spacing: 0;text-transform: none; display:flex; align-items:center; gap:10px;
 }
 .product__info-container .product-form .product-form__buttons .button--primary i,
 .product__info-container .product-form .product-form__buttons .button--secondary i { display:flex; }
@@ -368,7 +368,7 @@ font-style: normal; font-weight: 600; line-height: 100%; letter-spacing: 0.6px; 
 .product__info-container .product__accordion .accordion-body .size-photos .gridDiv_item .rte h6 { font-weight:500; }
 
 
-.product__info-container .product-block .sales-point .icon-and-text { display:flex; align-items:center; color: #0D0D0D; font-size: 14px; font-style: normal; gap:16px;
+.product__info-container .product-block .sales-point .icon-and-text { display:flex; align-items:center; color: #04232F;  font-size: 14px; font-style: normal; gap:10px;
   font-weight: 400; line-height: 160%; }
 .product__info-container .product-block .sales-point .icon-and-text.final_sale { color: #B81600; }
 
@@ -863,7 +863,7 @@ height: 100%;
 }
 
 .benefits-slider .swiper-wrapper .swiper-slide{
-  background: #f1efea;
+  background: rgb(0,0,0, 0.02);
   border-radius: 10px;
   height: auto;
 }
@@ -874,11 +874,10 @@ height: 100%;
     gap: 5px;
 }
 .benefits-slider .swiper-wrapper .swiper-slide h3 {
-  color: #0D0D0D;
-  font-family: Cellofy;
+  font-family: Playfair Display;
+  color:#04232F; 
+  font-weight: 400;
   font-size: 24px;
-  font-style: normal;
-  font-weight: 600;
   line-height: 120%;
   letter-spacing: -0.48px;
   padding: 0;
@@ -887,9 +886,14 @@ height: 100%;
 .benefits-slider .swiper-wrapper .swiper-slide p {
   padding: 0;
   margin: 0;
-  color: var(--Black, #0D0D0D);
+  font-family: Lato;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0%;
+color:#04232F; 
 }
-
+.resources-guide-section .accordion-content table td:last-child{ font-weight:700; }
 .benefits-slider .swiper-wrapper .swiper-slide img{
   border-radius: 10px 10px 0 0;
 }
