@@ -243,7 +243,9 @@
                  endif                       
                endfor
               -%}
+              test22
               {%- if size != blank -%}
+                tets
                 <a href="{{ metaPro.url }}" 
                   class="size-button {% if card_product.handle == metaPro.handle %}selected{% endif %} variant-available--{{ metaPro.available }}" 
                   data-size="{{ size  | downcase }}" data-featured-img="{{ metaPro.featured_image | image_url }}">{{ size }}{{ measure }}</a>
