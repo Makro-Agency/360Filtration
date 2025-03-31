@@ -109,9 +109,9 @@ ol.breadcrumb{
   left: 10px;
 }
 .sale-button {
-    font-family: Proxima Nova;
+    font-family: lato; 
     font-size: 12px;
-    font-weight: 600;
+    font-weight: 700;
     line-height: 18px;
     padding: 1px 10px;
     border-radius: 100px;
@@ -121,9 +121,9 @@ ol.breadcrumb{
     display: inline-flex;
 }
 .choice-button {
-    font-family: Proxima Nova;
+    font-family: lato;
     font-size: 12px;
-    font-weight: 600;
+    font-weight: 700;
     line-height: 18px;
     padding: 1px 10px;
     border-radius: 100px;
@@ -133,9 +133,9 @@ ol.breadcrumb{
     display: inline-flex;
 }
 .sell-button {
-    font-family: Proxima Nova;
+    font-family:lato;
     font-size: 12px;
-    font-weight: 600;
+    font-weight: 700;
     line-height: 18px;
     padding: 1px 10px;
     border-radius: 100px;
@@ -196,8 +196,8 @@ ol.breadcrumb{
   margin: 0 5px;
 }
 .product-swatches .swatch.size-swatch:hover{
-  border: 1px solid #606D22;
-  color: #606D22;
+  border: 1px solid #143744;
+  color: #143744;
 }
 
 
@@ -412,7 +412,7 @@ box-shadow: none;
 }
 .cart-drawer-show cart-drawer.drawer.is-empty a.button ,
 cart-items.is-empty a.button {
-    background: #606d22;
+    background: #143744;
     color: #fcfbf7;
     font-size: 16px;
     line-height: 100%;

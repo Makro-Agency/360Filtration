@@ -3626,7 +3626,7 @@ details-disclosure > details {
   .contact-page
   .contact__button
   .contact-from-btn.disabled {
-  background: #606d22;
+  background: #143744;
   border-radius: 31px;
   opacity: 1;
 }
@@ -3677,8 +3677,8 @@ details-disclosure > details {
 .yotpo.bottomLine{ font-size:14px; }
 .product--left .price__regular span.buy-now{
   text-transform:capitalize;
-  color: var(--Black, #0D0D0D);
-  font-family: "Proxima Nova";
+  color: #04232F;
+  font-family: Lato;
   font-size: 12px;
   font-style: normal;
   font-weight: 600;
