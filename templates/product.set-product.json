@@ -106,7 +106,7 @@
         "feature_media_Cwg4ij": {
           "type": "feature-media",
           "settings": {
-            "icon": "shopify://shop_images/Vector_1_eb1f31c7-b1c5-482d-a00f-0e545e472613.svg",
+            "icon": "shopify://shop_images/microwave.svg",
             "title": "Oven Safe Up To 500°",
             "description": ""
           }
@@ -114,7 +114,7 @@
         "feature_media_B8QzPA": {
           "type": "feature-media",
           "settings": {
-            "icon": "shopify://shop_images/cold_7d76bd55-42e5-45ba-be4d-85c37211a62d.svg",
+            "icon": "shopify://shop_images/cold.svg",
             "title": "Long Lasting Performance",
             "description": ""
           }
@@ -122,7 +122,7 @@
         "feature_media_j7QKNj": {
           "type": "feature-media",
           "settings": {
-            "icon": "shopify://shop_images/Frame_2.svg",
+            "icon": "shopify://shop_images/Capa_1.svg",
             "title": "Surgical Stainless Steel",
             "description": ""
           }
@@ -130,7 +130,7 @@
         "feature_media_z9aUNP": {
           "type": "feature-media",
           "settings": {
-            "icon": "shopify://shop_images/Capa_1_1.svg",
+            "icon": "shopify://shop_images/Capa_1_1_5bb0c27e-0889-4524-86b7-4964a95352cf.svg",
             "title": "Handcrafted in the U.S.A",
             "description": ""
           }
@@ -335,7 +335,7 @@
         "faq_qNePbz"
       ],
       "settings": {
-        "bgcolor": "#faf5eb",
+        "bgcolor": "#fafafa",
         "title": "Your Guide to Culinary Confidence",
         "des": "Find answers, explore tips, and discover the full potential of your 360 Cookware.",
         "padding_top": 36,
@@ -348,7 +348,7 @@
         "service_FVD8fN": {
           "type": "service",
           "settings": {
-            "icon_svg": "<svg width=\"50\" height=\"50\" viewbox=\"0 0 50 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"50\" height=\"50\" rx=\"25\" fill=\"#606D22\"></rect><path d=\"M14.5 22.9H35.5M16.6 22.9L17.1291 28.7204C17.3765 31.4416 17.5002 32.8021 18.4025 33.6261C19.3047 34.45 20.6709 34.45 23.4033 34.45H26.5967C29.329 34.45 30.6953 34.45 31.5976 33.6261C32.4998 32.8021 32.6235 31.4416 32.8709 28.7204L33.4 22.9M16.6 20.8L21.85 19.3821M21.85 19.3821L28.15 17.6805M21.85 19.3821L22.0659 17.5574C22.1449 16.8901 22.6189 16.3384 23.263 16.1645L25.3303 15.6061C25.9743 15.4322 26.6586 15.671 27.0579 16.2091L28.15 17.6805M28.15 17.6805L33.4 16.2625\" stroke=\"#FCFBF7\" stroke-width=\"1.5\" stroke-linecap=\"round\"></path></svg>",
+            "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewbox=\"0 0 50 50\" fill=\"none\">\n<rect width=\"50\" height=\"50\" rx=\"25\" fill=\"#143744\"></rect>\n<path d=\"M14.5 22.8998H35.5M16.6 22.8998L17.1291 28.7202C17.3765 31.4413 17.5002 32.8018 18.4025 33.6259C19.3047 34.4498 20.6709 34.4498 23.4033 34.4498H26.5967C29.329 34.4498 30.6953 34.4498 31.5976 33.6259C32.4998 32.8018 32.6235 31.4413 32.8709 28.7202L33.4 22.8998M16.6 20.7998L21.85 19.3818M21.85 19.3818L28.15 17.6803M21.85 19.3818L22.0659 17.5572C22.1449 16.8899 22.6189 16.3382 23.263 16.1643L25.3303 15.6059C25.9743 15.432 26.6586 15.6708 27.0579 16.2089L28.15 17.6803M28.15 17.6803L33.4 16.2623\" stroke=\"white\" stroke-width=\"1.5\" stroke-linecap=\"round\"></path>\n</svg>",
             "title": "Product Care Guide",
             "description": "Learn how to properly use and maintain your cookware for optimal performance and longevity.",
             "link": "shopify://pages/use-care-guide",
@@ -358,7 +358,7 @@
         "service_jFAXPA": {
           "type": "service",
           "settings": {
-            "icon_svg": "<svg width=\"50\" height=\"50\" viewbox=\"0 0 50 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect width=\"50\" height=\"50\" rx=\"25\" fill=\"#E6A817\"></rect>\n<path d=\"M18.8868 30.2177L31.281 30.2083M24.9996 15.625C27.0076 15.625 28.6847 17.0313 29.093 18.9073C30.1651 18.6186 31.3086 18.7655 32.2719 19.3157C33.2352 19.8659 33.9394 20.7743 34.2296 21.8411C34.5197 22.908 34.3721 24.0457 33.8191 25.0042C33.2661 25.9627 32.3532 26.6634 31.281 26.9521V34.375H18.7182V26.9521C18.1873 26.809 17.69 26.5633 17.2546 26.2289C16.8191 25.8946 16.4541 25.4782 16.1804 25.0035C15.9067 24.5288 15.7297 24.0051 15.6594 23.4623C15.5891 22.9196 15.6269 22.3683 15.7707 21.8401C15.9145 21.3119 16.1615 20.817 16.4975 20.3837C16.8335 19.9505 17.252 19.5873 17.7291 19.315C18.2061 19.0426 18.7324 18.8665 19.2779 18.7965C19.8234 18.7266 20.3775 18.7642 20.9083 18.9073C21.1113 17.9777 21.6278 17.1451 22.3721 16.548C23.1163 15.9509 24.0435 15.6252 24.9996 15.625Z\" stroke=\"#FCFBF7\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
+            "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"50\" height=\"50\" viewbox=\"0 0 50 50\" fill=\"none\">\n<rect width=\"50\" height=\"50\" rx=\"25\" fill=\"#A5DDF2\"></rect>\n<path d=\"M18.8868 30.2177L31.281 30.2083M24.9996 15.625C27.0076 15.625 28.6847 17.0313 29.093 18.9073C30.1651 18.6186 31.3086 18.7655 32.2719 19.3157C33.2352 19.8659 33.9394 20.7743 34.2296 21.8411C34.5197 22.908 34.3721 24.0457 33.8191 25.0042C33.2661 25.9627 32.3532 26.6634 31.281 26.9521V34.375H18.7182V26.9521C18.1873 26.809 17.69 26.5633 17.2546 26.2289C16.8191 25.8946 16.4541 25.4782 16.1804 25.0035C15.9067 24.5288 15.7297 24.0051 15.6594 23.4623C15.5891 22.9196 15.6269 22.3683 15.7707 21.8401C15.9145 21.3119 16.1615 20.817 16.4975 20.3837C16.8335 19.9505 17.252 19.5873 17.7291 19.315C18.2061 19.0426 18.7324 18.8665 19.2779 18.7965C19.8234 18.7266 20.3775 18.7642 20.9083 18.9073C21.1113 17.9777 21.6278 17.1451 22.3721 16.548C23.1163 15.9509 24.0435 15.6252 24.9996 15.625Z\" stroke=\"white\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
             "title": "Explore the Catalog",
             "description": "Discover our full range of cookware, bakeware, and accessories to complete your kitchen setup.",
             "link": "shopify://collections/all-cookware-and-bakeware-hm",
@@ -381,7 +381,7 @@
         "help_zgf3G4"
       ],
       "settings": {
-        "bgcolor": "#faf5eb",
+        "bgcolor": "#fafafa",
         "padding_top": 12,
         "padding_bottom": 72
       }
