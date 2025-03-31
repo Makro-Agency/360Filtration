@@ -214,7 +214,7 @@ letter-spacing: 0%;
   font-size: 12px;
   font-weight: 700;
   line-height: 18px;
-  color: #606d22;
+  color: #143744;
   display:flex;
   align-items:center;
 }
@@ -281,6 +281,7 @@ a.product-360-category-inner{
 .common-h5 h5,
 .h5 {
   font-size: 20px;
+  letter-spacing:0; 
   font-weight: 600;
   line-height: 24px;
   margin: 0;

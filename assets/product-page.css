@@ -67,10 +67,10 @@
 }
 .product__info-container div[id*="price-template--"] .price .price__badge-sold-out { display:none !important; }
 
-.product__info-container .price--on-sale .price__container .price__sale { display:flex; align-items:center; flex-direction: row-reverse; justify-content: flex-end; }
+.product__info-container .price--on-sale .price__container .price__sale { display:flex; align-items:center; justify-content: flex-end; }
 .product__info-container .price--on-sale .price__container .price__sale .price-item--regular {  color: #A8A5A0; font-size: 20px; 
   font-style: normal; font-weight: 500; line-height: 160%; text-decoration: line-through;    letter-spacing: 0;}
-.product__info-container .price--on-sale .price__container .price__sale .price-item--sale { color: #606D22; font-size: 24px; font-style: normal; font-weight: 600;
+.product__info-container .price--on-sale .price__container .price__sale .price-item--sale { color: #143744; font-size: 24px; font-style: normal; font-weight: 600;
   line-height: 100%; letter-spacing: 0; text-transform: uppercase; text-decoration:none; }
 .product__info-container .price--on-sale .price__badge-sale { display:none; }
 
@@ -788,7 +788,7 @@ section .rebuy-widget-container .rebuy-carousel__arrows .splide__arrow.rebuy-car
 
 .product__info-container .product-form .product-form__submit{
       border-radius: 100px;
-    background-color: #606D22;
+    background-color: #143744;
 }
 .product__info-container .product-form .product-form__buttons .button--primary{ border-radius:100px;}
 
@@ -925,7 +925,7 @@ shopify-payment-terms{
 
 /* yotpo widget */
 .yotpo-main-layout.yotpo-main-reviews-widget { 
-  --primary-font-family: Cellofy; --secondary-font-family: var(--font-body-family); --primary-color: #606D22; --text-color: #0D0D0D; --primary-font-weight: 400; --secondary-font-weight: 400; 
+  --primary-font-family: Cellofy; --secondary-font-family: var(--font-body-family); --primary-color: #143744; --text-color: #0D0D0D; --primary-font-weight: 400; --secondary-font-weight: 400; 
   font-family: var(--secondary-font-family); color: var(--text-color); }
 
 .yotpo-reviews-main-widget div:empty { display: none; }
@@ -935,20 +935,20 @@ shopify-payment-terms{
 .yotpo-main-reviews-widget:not(#id) .yotpo-layout-header-wrapper { margin-bottom: 0; }
 .yotpo-main-reviews-widget .yotpo-header-container { margin-bottom: 60px; }
 
-.yotpo-summary-section:not(#id) .yotpo-bottom-line-score { font-family: var(--primary-font-family); font-size: 60px; font-weight: 600; line-height: 100%; letter-spacing: -1.2px; --primary-color: #606D22; }
+.yotpo-summary-section:not(#id) .yotpo-bottom-line-score { font-family: var(--primary-font-family); font-size: 60px; font-weight: 600; line-height: 100%; letter-spacing: -1.2px; --primary-color: #143744; }
 .yotpo-bottom-line .yotpo-summary-section .yotpo-bottom-line-right-panel { padding-top: 0; }
 .yotpo-bottom-line-summary .yotpo-bottom-line-text { font-family: var(--font-body-family) !important; font-size: 16px; font-weight: 600  !important; line-height: 150%; color: #0D0D0D !important; margin-top: 2px; }
   .yotpo-summary-section .yotpo-star-rating .star-container { width: 28px; height: 28px; }
   .yotpo-summary-section .yotpo-star-rating .star-container .yotpo-star-rating-icon { width: 100%; height: 100%; padding: 0 6px; }
-  .yotpo-star-rating .star-container .yotpo-star-rating-icon linearGradient stop:first-child { stop-color: #606d22; }
-  .yotpo-star-rating .star-container .yotpo-star-rating-icon path { stroke: #606D22; }
+  .yotpo-star-rating .star-container .yotpo-star-rating-icon linearGradient stop:first-child { stop-color: #143744; }
+  .yotpo-star-rating .star-container .yotpo-star-rating-icon path { stroke: #143744; }
   .yotpo-summary-section .yotpo-star-rating .star-container:not(:last-child) { margin-right: 2px; }
 
-.yotpo-new-review-btn-wrapper #yotpo-main-widget-btn { font-family: var(--font-body-family); font-size: 16px; font-style: normal; font-weight: 600; line-height: 100%; --primary-color: #606D22; padding: 16px 25px; height: auto;
+.yotpo-new-review-btn-wrapper #yotpo-main-widget-btn { font-family: var(--font-body-family); font-size: 16px; font-style: normal; font-weight: 600; line-height: 100%; --primary-color: #143744; padding: 16px 25px; height: auto;
   border-color: var(--primary-color); transition: color 0.5s linear, all 0.4s cubic-bezier(0.86, 0.39, 0.58, 0.37); border: 1px solid var(--primary-color); }
 .yotpo-new-review-btn-wrapper #yotpo-main-widget-btn:hover { 
-  yotpo-empty-white: #606D22;
-  --primary-color: #606D22; 
+  yotpo-empty-white: #143744;
+  --primary-color: #143744; 
  background: #A6BB3A;
     border-color: #A6BB3A;
 }
