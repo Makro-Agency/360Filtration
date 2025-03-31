@@ -187,7 +187,6 @@
     },
     "review-widget": {
       "type": "product-review-widget",
-      "disabled": true,
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0
