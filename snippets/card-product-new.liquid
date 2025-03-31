@@ -662,13 +662,14 @@ endif
               {%- endif -%}               
             {%- endfor -%}
           {% endcapture %}{%- assign meta_varaints_cap = meta_varaints_cap | strip_newlines | strip -%}
-   {%- if meta_varaints_cap != blank -%}              
+   {%- if meta_varaints_cap != blank -%}   {%- endif -%}
+     
       <div class="meta-size-selector small-hide">
         <div class="size-options">
           {{ meta_varaints_cap }} 12222
         </div>
       </div>
-    {%- endif -%}
+   
     
     <div class="product-badge">
       {% if card_product.title == "Square Hair Brush 32mm" %}
