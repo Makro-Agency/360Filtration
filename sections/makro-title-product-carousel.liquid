@@ -29,7 +29,7 @@
       <li class="swiper-slide makro-PC-grid__item grid__item" {% if settings.animations_reveal_on_scroll %} style="--animation-order: {{ forloop.index }};"{% endif %}>
         
         <div class="makro-product--card">
-          {% render 'card-product-new',
+          {% render 'card-product',
             card_product: product,
             media_aspect_ratio: section.settings.image_ratio,
             show_secondary_image: true,
