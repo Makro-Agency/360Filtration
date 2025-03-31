@@ -226,7 +226,7 @@
             {%- endif -%}
     
           </div>
-          tettt
+         
           {% capture meta_varaints_cap %}                
             {%- assign productReferenced = card_product.metafields['360cookware'].Productlinked.value -%}
             {%- for metaPro in productReferenced -%}
@@ -260,6 +260,7 @@
           {%- endif -%}
         </div>
         <div class="card__content">
+           tettt123
           <div class="product-swatches">
             {% for option in product.options_with_values %}
               {% if option.name == 'size' %}
