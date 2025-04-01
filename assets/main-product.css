@@ -471,12 +471,14 @@
       width: 150px;
     }
   }
-  
-  
+  @media screen and (max-width:1110px){
+    .video-on-media .video-feature-container{     align-items: flex-start; }
+  }
+
   /* video media */
   .video-on-media.video-feature-section {
    background: #00000005;
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
   }
   .video-on-media .textflex{
@@ -484,14 +486,16 @@
         display: flex;
   }
   .video-on-media .textflex .video-subtitle{
-      font-size: 20px;
-      margin: 0;
-      font-family: Hurricane;
-      font-size: 32px;
-      line-height: 100%;
-      color: #A6BB3A;
-      transform: rotate(-10deg);
-      font-weight: 400 !important;
+    font-family: Maytra;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;    
+    color: #728F9A;
+    transform: rotate(-5deg);
+    font-weight: 400 !important;
+    position:relative;
+    bottom:10px; 
   }
   .video-on-media .video-feature-container {
     display: flex;
@@ -525,13 +529,18 @@
   }
   
   .video-on-media .video-content {
-    max-width: 600px;
+    max-width: 413px;
   }
   
   .video-on-media .video-title {
+    font-family: Playfair Display;
+    font-weight: 400;
     font-size: 24px;
-    margin: 0;
-    font-weight: 600;
+    line-height: 120%;
+    letter-spacing: -2%;
+    color:#04232F; 
+    margin: 0 20px 0 0;
+
   }
   
   .video-on-media .video-subtitle {
@@ -539,10 +548,17 @@
     color: #8bc34a;
     margin: 0;
   }
-  
+  .video-on-media.video-feature-section{ max-width:660px; margin-left:auto; }
   .video-on-media .video-description {
+    font-family: Lato;
+    font-weight: 400;
     font-size: 16px;
-    color: #0D0D0D;
+    line-height: 150%;
+    letter-spacing: 0;
+    color:#04232F;
+    margin-bottom: 0;
+    margin-top: 5px;
+    
   }
   
   .benefits-slider-section.page-width{
