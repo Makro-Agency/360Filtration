@@ -162,7 +162,7 @@
 }
 
 .product-card-wrapper .card__inner:hover .size-button{
-    background: #fff;
+    background: transparent;
     /* color: #143744; */
     /* box-shadow: 0 0 0 1.5px #143744; */
 }
@@ -567,7 +567,8 @@
   color: #143744; 
   border: 2px solid;
 }
-.card__inner a.size-button.variant-available--true{     border: 1.5px solid #143743; }
+.card__inner a.size-button{ transition:all 0.3s linear; }
+.card__inner a.size-button:hover{     border: 1.5px solid #143743; }
 .card__inner .size-button:hover{
     border: 2px solid #0000001A;
 }
