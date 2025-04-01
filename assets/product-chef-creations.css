@@ -38,7 +38,7 @@
   }
   custom-deferred-media.video_group {
     display: block;
-    aspect-ratio: 0.60 / 1;
+    aspect-ratio: 0.65 / 1;
     border-radius: 10px;
     overflow: hidden;
   }
