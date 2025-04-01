@@ -702,12 +702,19 @@
     }
     
     .feature-ico-text .feature-item{ 
-      padding: 15px 9px;
+      padding: 15px 10px;
       margin-top: 0;
   } 
     .feature-item .feature-title{
+      font-family: Lato;
+     font-weight: 700;
+     font-size: 10px;
+    line-height: 150%;
+    letter-spacing: 0%;
+     text-align: center;
       margin-top: 8px;
     }
+
     .feature-ico-text {
       gap: 5px;
     }
@@ -926,6 +933,7 @@ letter-spacing: 0%;
       }
       .meta-size-selector .size-button {
         padding: 11px 5px;
+        max-width:170px; 
       }
   }
     .desktop-hide .review-title-wrapper h1{

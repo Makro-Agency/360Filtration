@@ -207,6 +207,9 @@ letter-spacing: 0;
   }
 }
 @media only screen and (max-width: 576px) {
+  .template-product  .contact-block{ margin-bottom:28px; }
+  .template-product  .resources-guide-section-pdp{ margin-bottom:0; }
+  .template-product   .resources-guide-section-pdp .cta_button.btn-light{ width:100%; max-width:100%; min-width:100%; }
   .home-blog-posts p.article-card__excerpt.rte-width{
     display: -webkit-box;         
   -webkit-box-orient: vertical;  
