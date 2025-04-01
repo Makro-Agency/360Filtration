@@ -20,7 +20,7 @@
   .cart-drawer .drawer__header .drawer__close path { stroke: currentColor; }
 /* drawer header  */
 /* drawer progressbar */
-  cart-drawer .drawer-progressbar { padding: 1.8rem 4rem; gap: 1rem; display: flex; flex-direction: column; background: #FAF5EB; }
+  cart-drawer .drawer-progressbar { padding: 1.8rem 4rem; gap: 1rem; display: flex; flex-direction: column; background: #fafafa; }
   .drawer-progressbar .progress-container { width: 100%; background-color: #143744; border-radius: 100px; height: 5px; position: relative; display: flex; align-items: center; }
   .progress_shipping_icon { position: absolute; top: calc(50% - 1.3rem); width: 2.6rem; height: 2.6rem; display: inline-flex; padding: 0.6rem; border-radius: 100px; background:#143744; right: 0; z-index: 1; color: #ffffff; }
   .progress_shipping_icon svg { display: block; width: 100%; height: 100%; }

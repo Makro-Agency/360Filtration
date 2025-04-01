@@ -175,7 +175,7 @@ a.button.cta_button.small-hide.medium-hide.top-button-class{ display:none; }
      margin-inline-end: 1.5rem;
   }  
   .makro-PC-grid.swiper-wrapper .makro-PC-grid__item {
-    max-width: calc(42.745% - var(--grid-mobile-horizontal-spacing) / 2);
+    max-width: calc(45.745% - var(--grid-mobile-horizontal-spacing) / 2);
   }
 
   .makro-product--card .ratio::before {
