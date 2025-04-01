@@ -388,7 +388,7 @@ a.product-360-category-inner:hover .product-360-link{
   text-align:left;
 }
 
-.common-h5.product-360-header{ margin-top:10px; }
+
 .navbar a.custom-menu-products{
   display: flex;
   align-items: flex-start;
@@ -407,8 +407,10 @@ a.product-360-category-inner:hover .product-360-link{
 .image-width-text-header:hover .product-360-link a,.header-shop-right span a:hover{
   /* text-decoration:underline; */
 }
-
-
+@media screen and (max-width: 767px) {
+.common-h5.product-360-header{ margin-top:10px; } }
+@media screen and (max-width: 767px) {
+.mega-descc{ margin-top:10px; } }
 @media only screen and (max-width: 1440px) {
   .dropdown_menu-inner,
   .megamenu-about-content-main {
