@@ -387,9 +387,7 @@ a.product-360-category-inner:hover .product-360-link{
 .header-wrap-title p, .header-wrap-para p{
   text-align:left;
 }
-.mega-head-new{
-  margin-bottom:20px;
-}
+
 .common-h5.product-360-header{ margin-top:10px; }
 .navbar a.custom-menu-products{
   display: flex;
@@ -423,6 +421,12 @@ a.product-360-category-inner:hover .product-360-link{
     gap: 15px;
   }
 }
+@media  screen and (max-width: 768px) {
+.cmn-menu-products{ padding:0 20px 20px 20px; }
+.mega-head-new{
+  margin-bottom:20px;
+  display:none; 
+} }
 @media only screen and (max-width: 1199px) {
   .navabar-desktop {
     display: none;

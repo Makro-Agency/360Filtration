@@ -669,7 +669,7 @@
     .feature-item .feature-title{   font-size:10px; } 
     }
     .product__info-container{     
-      color: rgb(0, 0, 0, 0.6);    
+      color: #04232F;    
        font-weight: 400;
        font-family: Lato;
        font-size: 16px;
@@ -732,6 +732,7 @@
       } }
   
   @media screen and (max-width: 767px){
+    .products-included-wrapper .product-included-lists .content-wrapper a{ font-size:14px; }
    .product-block.product-block--sales-point{
       max-width: 100%;
       width: 100%;
