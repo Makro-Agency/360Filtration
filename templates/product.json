@@ -299,9 +299,9 @@
         "video_block_nrhPX9"
       ],
       "settings": {
-        "background_color": "#faf5eb",
-        "main_heading": "Transform every home-cooked meal into a gourmet experience with 360 Cookware",
-        "block_descrption": "Transform every home-cooked meal into a gourmet experience with 360 Cookware",
+        "background_color": "#fafafa",
+        "main_heading": "Chef Creations Cooked with 360",
+        "block_descrption": "Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
         "button_link": "",
         "button_text": "Shop Now"
       }
@@ -413,7 +413,7 @@
         "heading": "You May Also Like",
         "heading_size": "h1",
         "products_to_show": 10,
-        "columns_desktop": 4,
+        "columns_desktop": 6,
         "color_scheme": "",
         "image_ratio": "square",
         "image_shape": "default",
