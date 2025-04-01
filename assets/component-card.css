@@ -557,7 +557,7 @@
     color: #0D0D0D; 
     transition: 0.5s ease,
     color 0.3s linear; 
-    border: 2px solid #0000000D;
+    border: 1px solid rgb(0,0,0, 0.10)
   }
   .card__inner .size-button span { display: block; color: rgba(0, 0, 0, 0.30); transition: 0.5s ease; }
 
@@ -567,6 +567,7 @@
   color: #143744; 
   border: 2px solid;
 }
+.card__inner a.size-button.variant-available--true{     border: 1.5px solid #143743; }
 .card__inner .size-button:hover{
     border: 2px solid #0000001A;
 }

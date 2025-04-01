@@ -64,7 +64,7 @@ line-height: 150%; /* 24px */ color:#000; }
 .shopify-section-header-sticky.scrolled-past-header  .header__icon svg{ color:#04232F; }
 .shopify-section-header-sticky.scrolled-past-header  .header.index-header .navbar_item > a{ color:#04232F;  transition:all 0.3s linear; }
   
-  .layout1-trans .shopify-section-header-sticky.scrolled-past-header  .header__icon .search-input { color:#04232F; }
+ .shopify-section-header-sticky.scrolled-past-header  .header__icon .search-input { color:#04232F; }
 
 
   .shopify-section-header-sticky.menu-open  .icon-close-new{
@@ -144,12 +144,14 @@ line-height: 150%; /* 24px */
  .shopify-section-header-sticky.scrolled-past-header .header__localization .disclosure .localization-form__select span{   color:#04232F; }
 .shopify-section-header-sticky.scrolled-past-header  .header__icon .search-input::placeholder {
   color:#04232F;
-}
+} 
+.header.index-header .header__icon--search{    border-bottom: 1px solid #ffffff; }
+.shopify-section-header-sticky.scrolled-past-header  .header.index-header .header__icon--search{    border-bottom: 1px solid #04232F; }
  .shopify-section-header-sticky.scrolled-past-header .header__localization .disclosure .localization-form__select svg{ color:#04232F; }
 .shopify-section-header-sticky.scrolled-past-header  .header__icon svg{ color:#04232F; }
 .shopify-section-header-sticky.scrolled-past-header  .header.index-header .navbar_item > a{ color:#04232F; transition:all 0.3s linear; }
-  
-  .shopify-section-header-sticky.scrolled-past-header  .header__icon .search-input { color:#04232F; }
+  .shopify-section-header-sticky.scrolled-past-header  .header__icon--search{ border-bottom:1px solid rgb(0,0,0, 0.10); }
+  .shopify-section-header-sticky.scrolled-past-header  .header__icon .search-input::placeholder { color:#04232F !important; }
   .shopify-section-header-sticky.scrolled-past-header .header__icon svg:hover {
     color: #c3d957;
   }
@@ -161,14 +163,15 @@ line-height: 150%; /* 24px */
   .header-row{
     max-width: 1360px;
     margin: auto;
+    padding:12px 0; 
     display: flex;
     justify-content: space-between;
     /* background: #ffffff; */
   }
      @media screen and (min-width: 1200px) {
-  details-modal.header__search{ margin-left:30px; } }
+  details-modal.header__search{ margin-left:60px; } }
      @media screen and (min-width: 1299px) {
-    .header__icon--search{ height:40px; min-width:161px; } }
+    .header__icon--search{ height:40px; min-width:297px;  {%- if section.settings.enable_country_selector and localization.available_countries.size > 1 -%} min-width:auto !Important; {% endif %} } }
     @media screen and (min-width: 1200px) and (max-width:1298px) {
   .header__icon--search{ min-width:auto; width:155px; height:40px;} }
     
@@ -180,7 +183,7 @@ line-height: 150%; /* 24px */
         left: 0;
         right: 0; 
         transition: all 600ms ease-in-out;
-                         padding-top: 5px;
+                         padding-top: 0px;
                  }
     {% endif %}
    
@@ -258,7 +261,7 @@ line-height: 150%; /* 24px */
   /* rs css start */
 header .navbar_list,
 header .header__icons--localization{
-   gap: 25px !important;
+   gap: 30px !important;
 }
 header.index-header span.ly-custom-1000 span {
     color: #fff;
@@ -274,9 +277,13 @@ header.index-header span.ly-custom-1000 svg path {
 .shopify-section-header-sticky.scrolled-past-header span.ly-custom-1000 span {
     color: #000;
 }
+.js .header__icons--localization .localization-form__select svg:first-child{ display:none; }
+.header__icons--localization .localization-form__select .icon-caret{ right:28px; }
+header .disclosure.disclosure_header_true{ max-width:44px; }
 .header__icons.header__icons--localization.header__localization span {
     font-family: var(--font-body-family);
     font-size: 14px;
+    text-transform:uppercase; 
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -450,6 +457,9 @@ display:none;
 display:block; 
 } 
 {% endif %}
+.shopify-section-header-sticky.scrolled-past-header .header .header__icon input:placeholder{ color:#04232F; }
+.js .header__icons--localization .localization-form__select .icon.icon-caret:last-child path{ color: #04232F; stroke:#04232F; }
+.shopify-section-header-sticky.scrolled-past-header .header__icon--search{ border:none; }
 {%- endstyle -%}
 
 <script src="{{ 'details-disclosure.js' | asset_url }}" defer="defer"></script>

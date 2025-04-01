@@ -206,11 +206,25 @@ letter-spacing: 0;
       flex: unset;
   }
 }
+@media only screen and (max-width: 576px) {
+  .home-blog-posts p.article-card__excerpt.rte-width{
+    display: -webkit-box;         
+  -webkit-box-orient: vertical;  
+  -webkit-line-clamp: 2;       
+  overflow: hidden;      
+  text-overflow: ellipsis; 
+  }
+.home-blog-posts .card__inner{     width: 140px;
+  max-height: 140px; } }
 @media only screen and (max-width: 749px) {
   .template-product main .page-width.service-block {
     padding: 0;
   }
   .service-list {
+    padding: 0 0px;
+    gap: 20px;
+  }
+  .template-product .service-list {
     padding: 0 20px;
     gap: 20px;
   }

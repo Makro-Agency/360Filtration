@@ -49,6 +49,7 @@ letter-spacing: -2%;
 .home-blog-posts .article-cards .card__heading a{
   text-decoration: none;
 }
+.blog__post.grid__item.article .blog__post.grid__item.article .card__inner .article-card__image  {max-height:200px;  }
 .home-blog-posts .tab-panel{
   display:none !important;
 }
@@ -199,8 +200,8 @@ letter-spacing: 0%;
   .home-blog-posts .card--text .card__content {
     width: 100%;
   }
-  .home-blog-posts .card__inner {
-    max-height: 140px;
+  .home-blog-posts .blog__post:first-child .card__inner {
+    max-height: 240px;
   }
   .home-blog-posts .blog__post.grid__item.article:not(:first-child ) .card__inner,
    .home-blog-posts .card--text .card__inner {

@@ -11,12 +11,12 @@
   gap: 30px;
 }
 .navbar_item {
-  padding: 31px 0px;
+  padding: 12px 0px;
 }
 
 .navbar_item {
   font-family: Lato;
-  font-weight: 700;
+  font-weight: 700; 
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0%;

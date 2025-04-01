@@ -32,9 +32,9 @@
   gap: 10px;
    border-bottom: 1px solid var(--gray-tones-black-20, rgba(0, 0, 0, 0.20));
 }
-.layout1-trans .header__icon--search{
+/* .layout1-trans .header__icon--search{
    border-bottom: 1px solid #FCFBF7;
-}
+} */
 
 
 .header.index-header:hover 
@@ -98,6 +98,7 @@
 }
 
 @media only screen and (max-width: 1199px) {
+  .layout1-trans .header{ padding-bottom:0; }
   .header__search {
     display: inline-flex !important;
   }
