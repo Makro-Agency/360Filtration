@@ -884,7 +884,7 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
-    letter-spacing: 0%;
+    letter-spacing: 0;
    color: #04232F;
   }
   .meta-size-selector a.size-button.variant-available--true{      border: 2px solid  #143744;  }
