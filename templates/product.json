@@ -413,7 +413,7 @@
         "heading": "You May Also Like",
         "heading_size": "h1",
         "products_to_show": 10,
-        "columns_desktop": 4,
+        "columns_desktop": 6,
         "color_scheme": "",
         "image_ratio": "square",
         "image_shape": "default",
