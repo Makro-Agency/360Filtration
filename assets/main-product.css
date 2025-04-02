@@ -903,7 +903,7 @@
     letter-spacing: 0;
    color: #04232F;
   }
-  .meta-size-selector a.size-button.variant-available--true{      border: 2px solid  #143744;  }
+ .product  .meta-size-selector a:hover{      border: 2px solid  #143744;  }
   .meta-size-selector .size-button {
     padding: 11px 20px;
     border: 2px solid  rgb(0,0,0 , 0.1);
