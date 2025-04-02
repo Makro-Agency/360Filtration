@@ -16,7 +16,6 @@
   line-height: 120%;
   letter-spacing: -2%;
   color: #04232F;
-
 }
 .title-wrapper .subtitle {
   font-family: Maytra;
@@ -39,9 +38,10 @@
   gap: 32px;
   align-items: center;
   line-height: 0;
-  margin-bottom: 0px;
+  margin-bottom: 40px;
   position: relative;
 }
+
 .benefits-item > div {
   flex: 1 0;
 }

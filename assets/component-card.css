@@ -552,14 +552,20 @@
     display: inline-flex; 
     flex-direction: column; 
     justify-content: center;
-    flex: 1 0; font-size: 12px; font-weight: 600;
+    flex: 1 0; 
+    font-family: Lato;
+font-weight: 700;
+font-size: 12px;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
     line-height: 150%; 
-    color: #0D0D0D; 
+    color:#04232F;
     transition: 0.5s ease,
     color 0.3s linear; 
     border: 1px solid rgb(0,0,0, 0.10)
   }
-  .card__inner .size-button span { display: block; color: rgba(0, 0, 0, 0.30); transition: 0.5s ease; }
+  .card__inner .size-button span { display: block; color: rgba(0, 0, 0, 0.30); transition: 0.5s ease; font-size:10px;  }
 
   /* .card__inner .size-button:hover, */
 .card__inner .size-button.selected { 
