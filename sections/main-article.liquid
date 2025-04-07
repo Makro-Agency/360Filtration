@@ -1,6 +1,7 @@
 {{ 'section-blog-post.css' | asset_url | stylesheet_tag }}
 {{ 'section-recepie.css' | asset_url | stylesheet_tag }}
 {% style %}
+main#MainContent{ background-color:#ffffff; }
     @media screen and (min-width:768px) and (max-width:1439px){
  .article-template header .article-template__title{ font-size:40px !Important; } }
  .template-article .article-template li{ padding-left:2rem; list-style-type: none; position:relative; left:3px;  }
@@ -62,9 +63,8 @@ letter-spacing: -1.2px; }
  
   article.article-template{ padding-top:5%; }
   .article-template__content.rte p{
-        letter-spacing: -.0038em;
-    color: var(--Black, #0D0D0D);
-    font-family: "Proxima Nova";
+    letter-spacing: -.0038em;
+    color: #04232F; 
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -121,7 +121,7 @@ margin-top: 60px;
  margin-bottom: 20px !important;    
   }
  .template-article .article-template  h6.sub-heading{
-    color: var(--Black, #0D0D0D);
+    color: #04232F; 
     font-family: Cellofy;
     font-size: 16px;
     font-style: normal;
@@ -129,14 +129,12 @@ margin-top: 60px;
     line-height: 120%;
     margin-bottom: 1rem !important;
   }
-
+.template-article .article-template .article-template__social-sharing span svg path{ stroke:#04232F; }
 .template-article .article-template .article-template__social-sharing span{
-   color: var(--Black, #0D0D0D);
-/* 📱 Mobile/Body Text Large/Medium */
-font-family: "Proxima Nova";
+   color:#04232F;
 font-size: 16px;
 font-style: normal;
-font-weight: 600;
+font-weight: 700;
 line-height: 150%; /* 24px */
 } 
     @media screen and (max-width:1199px){

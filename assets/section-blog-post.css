@@ -118,6 +118,7 @@
 
 .article-template__comment-wrapper h2 {
   margin-top: 0;
+  color:#04232F; 
 }
 
 .article-template__comments {
@@ -309,16 +310,18 @@
       margin-bottom: 2.285714rem; }
   
   .article-template__comment-warning {
-    margin: 2.285714rem 0; text-align: center; color: var(--gray-1, #73716E); line-height: 160%; font-weight: 300; }
+    margin: 2.285714rem 0; text-align: center; color: #04232F; line-height: 160%; font-weight: 400;     font-family: var(--font-body-family);
+    letter-spacing: 0; }
   
   .comment-form input.button[type="submit"] {
     display: block; margin-left: auto; margin-right: auto;
-    font-size: 12px; font-family: Jost; font-weight: 500; line-height: 100%;
-    letter-spacing: 0.05em; text-transform: uppercase; height: 5.72rem; padding: 15px 25px; 
+    font-size: 12px; font-family: var(--font-body-family); border-radius:100px;  font-weight: 700; line-height: 100%;
+    background: #143744;
+    letter-spacing: 0.05em; text-transform: capitalize; height: 5.72rem; padding: 15px 25px; 
 /*     background: var(--beige-1, #D9D5CE); */
   }
     .comment-form input.button[type=submit]:hover {
-      background-color: rgba(var(--color-button),var(--alpha-button-background)); }
+      background-color: rgba(var(--color-button),var(--alpha-button-background)); color:#fff; }
 
   @media screen and (max-width: 749px){
     .article-template__comment-wrapper {

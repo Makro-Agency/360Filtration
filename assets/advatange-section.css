@@ -37,23 +37,20 @@
 
 .advantage-inner-section-first-div h2 {
   margin: 0;
-  font-family: Cellofy;
   font-size: 40px;
-  font-weight: 600;
   line-height: 40px;
   letter-spacing: -0.02em;
   text-align: left;
-  color: #0d0d0d;
+  color: #04232F; 
   width: 508px;
 }
 
 .advantage-inner-section-first-div p {
   margin: 0;
-  font-family: Proxima Nova;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
-  color: #0d0d0d;
+  color:#04232F; 
   width: 508px;
 }
 
@@ -85,10 +82,8 @@
 }
 
 .advantag-inner-icon-header-text h4 {
-  color: #0d0d0d;
-  font-family: Cellofy;
+  color: #04232F;
   font-size: 24px;
-  font-weight: 600;
   line-height: 28.8px;
   letter-spacing: -0.02em;
   margin: 0;
@@ -96,8 +91,7 @@
 
 .advantag-inner-icon-header-text p {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Proxima Nova;
+  color: #04232F;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -139,7 +133,6 @@
   padding: 10px 20px 10px 10px;
   gap: 15px;
   border-radius: 15px;
-  background: #faf5eb;
   margin-top: 6px;
   max-width:574px;
   position:relative;
@@ -182,11 +175,10 @@
   display: flex;
   gap: 5px;
   cursor: pointer;
-  font-family: Proxima Nova;
   font-size: 16px;
   font-weight: 600;
   line-height: 16px;
-  color: #0d0d0d;
+  color: #04232f; 
 }
 
 .advantag-hidden-text .advantag-inner-icon-header-text h4 {
