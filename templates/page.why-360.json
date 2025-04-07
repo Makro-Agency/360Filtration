@@ -345,28 +345,28 @@
         "collection_CnpjAp": {
           "type": "collection",
           "settings": {
-            "collection": "bakeware",
+            "collection": "frontpage",
             "collection_title": "Sauté Pans"
           }
         },
         "collection_LPNCJw": {
           "type": "collection",
           "settings": {
-            "collection": "bakeware",
+            "collection": "frontpage",
             "collection_title": "Cookware Sets"
           }
         },
         "collection_fARNby": {
           "type": "collection",
           "settings": {
-            "collection": "bakeware",
+            "collection": "frontpage",
             "collection_title": "Fry Pans"
           }
         },
         "collection_hwm77A": {
           "type": "collection",
           "settings": {
-            "collection": "bakeware",
+            "collection": "frontpage",
             "collection_title": "Saucepans"
           }
         }
