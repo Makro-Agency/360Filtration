@@ -172,21 +172,21 @@
         "benefit_3kgYyz": {
           "type": "benefit",
           "settings": {
-            "icon": "shopify://shop_images/check-verified_3_2.svg",
+            "icon": "shopify://shop_images/check-verified.svg",
             "benefit_text": "Even Heating"
           }
         },
         "benefit_3Eh3dr": {
           "type": "benefit",
           "settings": {
-            "icon": "shopify://shop_images/check-verified_3_2.svg",
+            "icon": "shopify://shop_images/coupon-02.svg",
             "benefit_text": "Flavor Retention"
           }
         },
         "benefit_YwWcJA": {
           "type": "benefit",
           "settings": {
-            "icon": "shopify://shop_images/check-verified_3_2.svg",
+            "icon": "shopify://shop_images/Icon_3.svg",
             "benefit_text": "Precision Control"
           }
         }
