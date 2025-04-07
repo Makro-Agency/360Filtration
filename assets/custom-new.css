@@ -20,9 +20,8 @@ ol.breadcrumb{
 
 .breadcrumb-item a {
   text-decoration: none;
-  color: var(--gray-tones-black-60, rgba(0, 0, 0, 0.60));
-  font-family: "Proxima Nova";
-  font-weight: 600;
+  color: #143744; 
+  font-family: var(--font-body-family);
   font-size: 12px;
   line-height: 150%;
 }
@@ -72,7 +71,7 @@ ol.breadcrumb{
 /* search */
 
 #predictive-search-results .predictive-search__heading{
-  color: var(--Black, #0D0D0D);
+  color: #04232F; 
   font-family: "Proxima Nova";
   font-size: 12px;
   font-style: normal;
@@ -84,8 +83,8 @@ ol.breadcrumb{
   padding-bottom: 10px;
 }
 #predictive-search-results .predictive-search__item-heading {
-  color: #000;
-  font-family: "Proxima Nova";
+  color: #04232F;
+ font-family:Lato; 
   font-size: 16px;
   font-style: normal;
   line-height: 150%;

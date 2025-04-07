@@ -28,7 +28,7 @@ a:hover{
   font-family: var(--font-body-family); 
   font-size: 16px;
   line-height: 150%;
-  letter-spacing: 0%;
+  letter-spacing: 0;
  }
 .card-wrapper .card--card:hover .card__heading a{
     color: #c3d957 !important;
