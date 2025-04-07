@@ -35,10 +35,8 @@ span.title_text {
 
 .contect-form-column-first h2 {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Cellofy;
+  color:#04232F; 
   font-size: 40px;
-  font-weight: 600;
   line-height: 40px;
   letter-spacing: -0.02em;
   text-align: left;
@@ -132,10 +130,8 @@ span.title_text {
 
 .form-container h3 {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Cellofy;
+  color:#04232F;
   font-size: 40px;
-  font-weight: 600;
   line-height: 38.4px;
   letter-spacing: -0.02em;
   text-align: left;
@@ -274,7 +270,7 @@ textarea::placeholder {
 }
 
 .join-community {
-  background: #faf5eb;
+  background: #fafafa; 
   padding: 60px;
   border-radius: 15px;
   display: grid;
@@ -421,6 +417,8 @@ textarea::placeholder {
 /* updated code */
 .faq-title h3{
   font-size:32px; 
+  color:#04232F; 
+  letter-spacing:0; 
 }
 /* updated code */
 form.subscribe-form{ width:100%;   border:none;  display: flex;

@@ -1,5 +1,5 @@
 #video-with-text-why {
-    background: #faf5eb;
+    background: #fafafa; 
   }
   
   .video-with-text-why {
@@ -28,7 +28,7 @@
   }
   
   .why-video-header-text-inner-first span {
-    font-family: Hurricane;
+    font-family: Maytra; 
     font-size: 32px;
     font-weight: 400;
     line-height: 32px;
@@ -39,12 +39,10 @@
   
   .why-video-header-text-inner-first h2 {
     margin: 0;
-    font-family: Cellofy;
     font-size: 40px;
-    font-weight: 600;
     line-height: 40px;
     letter-spacing: -0.02em;
-    color: #0d0d0d;
+    color: #04232F; 
     width: 564px;
   }
   
@@ -69,18 +67,15 @@
   
   .why-border-doted-text h4 {
     margin: 0;
-    color: #0d0d0d;
-    font-family: Cellofy;
+    color: #04232F; 
     font-size: 24px;
-    font-weight: 600;
     line-height: 28.8px;
     letter-spacing: -0.02em;
   }
   
   .why-border-doted-text p {
     margin: 0;
-    color: #0d0d0d;
-    font-family: Proxima Nova;
+    color: #04232F; 
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -150,7 +145,7 @@
     font-weight: 400;
     line-height: 24px;
     text-align: left;
-    color: #0d0d0d;
+    color:#04232F; 
   }
   
   #video-with-text-why .catalog-icon-with-text {
@@ -188,13 +183,11 @@
   
   .why-video-btn-eye {
     display: inline-flex;
-    padding: 15px 25px;
+    padding: 14px 25px;
     border-radius: 100px;
     gap: 10px;
     color: #143744;
-    font-family: Proxima Nova;
     font-size: 14px;
-    font-weight: 600;
     line-height: 14px;
     text-align: center;
     width: 165px;

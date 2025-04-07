@@ -121,52 +121,47 @@
     border-radius: 100px;
     align-items: center; }
 .article-tab ul li.active{   background: #143744; }
-.main-blog a.tab-link.active{ min-width:142px;   }
+.main-blog a.tab-link.active{ min-width:142px; font-weight:900;   }
 .main-blog a.tab-link{     padding: 12px 25px; height:50px; 
     border-radius: 100px; min-width:181px;text-transform: capitalize; }
 .main-blog{ max-width:1485px; }
 .main-blog-header{ display:flex; align-items:center; justify-content: space-between; }
 .title--primary.scroll-trigger{ margin-bottom:0; color: var(--Black, #0D0D0D);
 /* Header 02 */
-font-family: Cellofy;
+
 font-size: 40px;
 font-style: normal;
-font-weight: 600;
 line-height: 100%; /* 40px */
 letter-spacing: -0.8px; }
-.main-blog a.tab-link{  color: #0d0d0d;  } 
+.main-blog a.tab-link{  color:#04232F;   } 
 .main-blog   a.tab-link.active{     
- background: var(--Green, #606D22);  color: var(--White, #FCFBF7);   }
+ background:#143744;  color: #ffffff;    }
 .main-blog  ul.pagination__list.list-unstyled{ margin-top:7rem; }
 .main-blog  .article-card__info:first-child{ display:none; }
 .main-blog  .article-card .card__heading a{
-color: var(--Black, #0D0D0D);
+color: #04232F;
 /* Header 04 */
-font-family: Cellofy;
 font-size: 24px;
 font-style: normal;
-font-weight: 600;
 line-height: 120%; /* 28.8px */
 letter-spacing: -0.48px; 
 }
 
 .main-blog .article-card__excerpt{
-   color: var(--Black, #0D0D0D);
+   color: #04232F; 
  text-overflow: ellipsis;
- font-family: "Proxima Nova";
  font-size: 16px;
  font-style: normal;
  font-weight: 400;
  line-height: 150%;
 }
 .main-blog .readMore-link{
- color: var(--Black, #0D0D0D);
+ color: #04232F; 
 text-align: center;
 /* CTA/Standard */
-font-family: "Proxima Nova";
 font-size: 16px;
 font-style: normal;
-font-weight: 600;
+font-weight: 700;
 line-height: 100%; /* 16px */
 text-transform:capitalize; 
 }

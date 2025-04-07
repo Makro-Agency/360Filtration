@@ -10,7 +10,19 @@
   max-width: 57rem;
   margin: 0 auto;
 }
-
+.template-article .product-form__quantity-top .form__label{ color:#04232f; font-weight:700;  }
+.template-article .price.price--large.price--show-badge{ gap:20px; }
+.template-article  .product__info-wrapper .price-monthly span{ font-size:14px; font-weight:600;  letter-spacing:0; color:#04232f;  }
+.template-article  h6.monthly-price{ margin:0; }
+.template-article .product__text{ margin-bottom:5px; letter-spacing:0; color:#04232f; font-weight:500;  }
+.template-article .product__text.caption-with-letter-spacing+.product__title{
+  font-size: 32px;
+}
+.paypal-button-row{ border-radius:100px; }
+.template-article .product-form__submit { background-color:#143744; color:#ffffff; }
+.template-article .paypal-button.paypal-button-shape-sharp{ border-radius:100px; }
+.template-article .month-price{ height: fit-content;
+  line-height: 100%; }
 .product__media-wrapper {
   padding-left: 0;
 }

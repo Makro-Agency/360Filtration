@@ -159,7 +159,6 @@
 
 .catalog-button-container-btn {
   text-decoration: none;
-  font-family: Proxima Nova;
   font-size: 16px;
   line-height: 16px;
   text-align: center;
@@ -177,10 +176,8 @@
 
 .why-product-slider-para p {
   margin: 0;
-  color: #00000066;
+  color: #04232F; 
   padding-bottom: 5px;
-
-  font-family: Proxima Nova;
   font-size: 12px;
   font-weight: 400;
   line-height: 18px;
@@ -198,12 +195,10 @@
   align-items: center;
   gap: 5px;
   color: #0d0d0d;
-  border: 1px solid #0d0d0d;
+  border: 1px solid #04232F;
   padding: 15px 22.5px;
   width: fit-content;
   border-radius: 100px;
-
-  font-family: Proxima Nova;
   font-size: 14px;
   font-weight: 600;
   line-height: 14px;
@@ -217,10 +212,9 @@
 }
 
 .header-product-slider-why h2 {
-  color: #0d0d0d;
-  font-family: Cellofy;
+  color: #04232F;
   font-size: 40px;
-  font-weight: 600;
+
   line-height: 40px;
   letter-spacing: -0.02em;
   margin: 0;
@@ -247,7 +241,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: Proxima Nova;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
