@@ -29,24 +29,21 @@
 #hotspot-section .advantage-inner-section-first-div{ max-height:650px; }
 #hotspot-section .advantage-inner-section-first-div h2 {
   margin: 0;
-  font-family: Cellofy;
   font-size: 40px;
-  font-weight: 600;
   line-height: 40px;
   letter-spacing: -0.02em;
   text-align: left;
-  color: #0d0d0d;
+  color: #04232F; 
   width: 508px;
 }
 
 #hotspot-section .advantage-inner-section-first-div p {
   margin:0; 
- color: var(--Black, #0D0D0D);
+ color:#04232F; 
 /* Body Text Small / Medium */
-font-family: "Proxima Nova";
 font-size: 12px;
+font-family:var(--font-body-family); 
 font-style: normal;
-font-weight: 600;
 line-height: 150%; /* 18px */
 }
 
@@ -77,10 +74,8 @@ line-height: 150%; /* 18px */
 }
 
 #hotspot-section .advantag-inner-icon-header-text h4 {
-  color: #0d0d0d;
-  font-family: Cellofy;
+  color:#04232F; 
   font-size: 24px;
-  font-weight: 600;
   line-height: 28.8px;
   letter-spacing: -0.02em;
   margin: 0;
@@ -88,8 +83,7 @@ line-height: 150%; /* 18px */
 
 #hotspot-section .advantag-inner-icon-header-text p {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Proxima Nova;
+  color: #04232F; 
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -152,14 +146,12 @@ line-height: 150%; /* 18px */
 
 #hotspot-section .advantag-right-arrow-text_inner p {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Proxima Nova;
+  color: #04232F;
   font-size: 16px;
-  font-weight: 600;
   line-height: 24px;
   text-align: left;
 }
-
+#hotspot-section .advantage-inner-section-second-div h2{   color: #04232F;  }
 #hotspot-section .advantag_arrow_link {
   padding: 14px;
   background-color: #143744;

@@ -23,9 +23,8 @@
 
 .recipe-section-new .recipe-header p {
 	margin: 0;
-	color: var(--Black, #0D0D0D);
+	color: #04232F;
 	/* Body Text Large / Regular */
-	font-family: "Proxima Nova";
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -35,11 +34,9 @@
 
 .recipe-section-new .recipe-header h2 {
 	margin: 10px 0;
-	color: var(--Black, #0D0D0D);
-	font-family: Cellofy;
+	color:#04232F
 	font-size: 32px;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 120%;
 	letter-spacing: -0.64px;
 	padding-bottom: 10px;
@@ -63,7 +60,7 @@
 	margin: 10px 0;
 	padding:14px 16px; 
      border-radius: 15px;
-    background: var(--Secondary-Beige, #FAF5EB);
+    background: #fafafa; 
     position:relative;
 }
 
@@ -86,12 +83,8 @@
 .recipe-section-new .price {
 	margin-top: 10px;
 	color: #000;
-
-	/* Body Text Standard/Medium */
-	font-family: "Proxima Nova";
 	font-size: 14px;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 150%;
 	/* 21px */
 }
@@ -99,7 +92,6 @@
 .recipe-section-new .discounted-price {
 	text-decoration: line-through;
 	color: var(--gray-tones-black-40, rgba(0, 0, 0, 0.40));
-	font-family: "Proxima Nova";
 	font-size: 14px;
 	font-style: normal;
 	font-weight: 400;
@@ -115,13 +107,10 @@
 	height: 50px;
 	cursor: pointer;
 	transition: background-color 0.3s;
-	color: var(--White, #FCFBF7);
+	color: #ffffff;
 	text-align: center;
-	/* CTA/Standard */
-	font-family: "Proxima Nova";
 	font-size: 16px;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 100%;
 	/* 16px */
 }
@@ -138,10 +127,8 @@
   .recipe-section-new .cta-button:hover{ color:#fff; }
 .recipe-section-new .cta-button.desktop-hide:after{ border:none; box-shadow:none;}
 .recipe-section-new .recipe-images img {
-
 	height: auto;
 	object-fit: cover;
-
 	max-height: 500px;
 	max-width: 322px;
 }
@@ -150,13 +137,12 @@
 	margin-bottom: 0;
 	margin-top: 0;
 	letter-spacing: 0;
-	color: var(--Black, #0D0D0D);
+	color: #04232F; 
 	text-overflow: ellipsis;
-	/* Body Text Large / Medium */
-	font-family: "Proxima Nova";
 	font-size: 16px;
+	font-weight:700; 
+	font-family:var(--font-body-family); 
 	font-style: normal;
-	font-weight: 600;
 	line-height: 150%;
 	/* 24px */
 }
@@ -166,8 +152,7 @@
 }
 
 .recipe-section-new .recipe-description {
-	color: var(--Black, #0D0D0D);
-	font-family: "Proxima Nova";
+	color: #04232F; 
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -186,25 +171,21 @@
 	display: flex;
 	align-items: center;
 	border-radius: 50px;
-	background: var(--Secondary-Beige, #FAF5EB);
-	color: var(--Green, #606D22);
+	background:#A5DDF2; 
+	color: #04232F; 
 	padding: 4px 12px;
 	/* Body Text Small / Medium */
-	font-family: "Proxima Nova";
 	font-size: 12px;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 150%;
 	/* 18px */
 }
 
 .recipe-section-new .recipe-header ul .tag-meta:last-child {
-	color: var(--Secondary-Red, #CE1B03);
+	color:#04232F; 
 	/* Body Text Small / Medium */
-	font-family: "Proxima Nova";
 	font-size: 12px;
-	font-style: normal;
-	font-weight: 600;
+	font-style: normal;;
 	line-height: 150%;
 	/* 18px */
 }
@@ -321,10 +302,10 @@
                <p class="price">{{ product.price | money }} <span class="discounted-price">{{ product.compare_at_price | money }}</span></p>
             </div>
             <span>
-               <svg xmlns="http://www.w3.org/2000/svg" width="40" height="41" viewBox="0 0 40 41" fill="none">
-                  <rect y="0.5" width="40" height="40" rx="20" fill="#606D22"/>
-                  <path d="M22.8152 23.125L25.25 20.4987M25.25 20.4987L22.8176 17.875M25.25 20.4987H14.75" stroke="#FCFBF7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-               </svg>
+         <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+           <rect width="40" height="40" rx="20" fill="#143744"/>
+           <path d="M22.8152 22.625L25.25 19.9987M25.25 19.9987L22.8176 17.375M25.25 19.9987H14.75" stroke="#FCFBF7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
             </span>
          </div>
       </div>

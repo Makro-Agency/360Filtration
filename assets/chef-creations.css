@@ -16,14 +16,11 @@
   line-height: 150%; /* 24px */
   }
   .chef-section .video-group-wrapper .slide-nav .nav-btn.fea-col-slide-next{ display:none;}
-  .video-conent h4{ margin-top:3rem;  margin-bottom:0; }
+  .video-conent h4{ margin-top:2rem;  margin-bottom:1rem; }
   .video-conent h4{
-   color: var(--Black, #0D0D0D);
-  /* Header 04 */
-  font-family: Cellofy;
+   color:#04232F;
   font-size: 24px;
   font-style: normal;
-  font-weight: 600;
   line-height: 120%; /* 28.8px */
   letter-spacing: -0.48px;
   }
@@ -41,6 +38,7 @@
       width:80px;
       height:80px;
     }
+
   .chef-section button.play-button {
       background: none;
       border: none;
@@ -147,7 +145,7 @@ letter-spacing: -2%;
     }
   
    .chef-section .icon-content h6{
-    color: var(--Black, #0D0D0D);
+    color: #04232F; 
   /* Body Text Large / Regular */
   font-family: "Proxima Nova";
   font-size: 16px;
@@ -165,7 +163,7 @@ letter-spacing: -2%;
       left: 30px;
       right: auto;
     }
-  .chef-section p.desc1{ margin-bottom:30px;}
+  .chef-section p.desc1{ margin-bottom:30px; color:#04232F; }
   .chef-section .section-icons{ margin-right:24px; }
   .chef-section   .video-group-wrapper .nav-btn.fea-col-slide-prev.prevprev.swiper-button-disabled,
   .chef-section  .video-group-wrapper .nav-btn.fea-col-slide-next.nextnext.swiper-button-disabled {
