@@ -51,10 +51,8 @@ span.title_text {
 
 .common-info h4 {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Cellofy;
+  color: #04232F; 
   font-size: 24px;
-  font-weight: 600;
   line-height: 28.8px;
   letter-spacing: -0.02em;
   text-align: left;
@@ -62,8 +60,7 @@ span.title_text {
 
 .common-info p {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Proxima Nova;
+  color: #04232F; 
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -83,10 +80,8 @@ span.title_text {
 
 .need-help-box h3 {
   margin: 0;
-  color: #fcfbf7;
-  font-family: Cellofy;
+  color: #ffffff; 
   font-size: 32px;
-  font-weight: 600;
   line-height: 38.4px;
   letter-spacing: -0.02em;
   text-align: left;
@@ -94,8 +89,7 @@ span.title_text {
 
 .need-help-box p {
   margin: 0;
-  color: #fcfbf7;
-  font-family: Proxima Nova;
+  color: #ffffff; 
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -108,13 +102,10 @@ span.title_text {
   align-items: center;
   width: 142px;
   height: 40px;
-  background: #fcfbf7;
+  background: #ffffff; 
   color: #143744;
   border-radius: 100px;
-
-  font-family: Proxima Nova;
   font-size: 14px;
-  font-weight: 600;
   line-height: 14px;
   margin-top: 25px;
   text-decoration: none;
@@ -194,13 +185,12 @@ textarea::placeholder {
   align-items: center;
   background: #143744;
   cursor:pointer;  
-  font-family: Proxima Nova;
   font-size: 16px;
-  font-weight: 600;
   line-height: 16px;
   text-align: center;
-  color: #fcfbf7;
+  color: #ffffff; 
   margin-top: 30px;
+  font-family:var(--font-body-family); 
   text-decoration: none;
 }
 
@@ -285,10 +275,8 @@ textarea::placeholder {
 
 .join-first h3 {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Cellofy;
+  color:#04232F;
   font-size: 32px;
-  font-weight: 600;
   line-height: 38.4px;
   letter-spacing: -0.02em;
   text-align: left;
@@ -296,9 +284,8 @@ textarea::placeholder {
 }
 
 .join-first p {
-  color: #0d0d0d;
+  color: #04232F;
   margin: 0;
-  font-family: Proxima Nova;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -307,7 +294,7 @@ textarea::placeholder {
 
 .join-input {
   position: relative;
-  border: 1px solid #0d0d0d;
+  border: 1px solid #04232F; 
   border-radius: 100px;
   padding: 14px 20px;
   width: 100%;
@@ -331,9 +318,7 @@ textarea::placeholder {
   bottom: 0;
   right: 20px;
   color: #6c6a66;
-  font-family: Proxima Nova;
   font-size: 16px;
-  font-weight: 600;
   line-height: 16px;
   text-align: center;
   cursor: pointer;

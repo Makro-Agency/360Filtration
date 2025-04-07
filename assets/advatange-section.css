@@ -176,20 +176,14 @@
   gap: 5px;
   cursor: pointer;
   font-size: 16px;
-  font-weight: 600;
   line-height: 16px;
   color: #04232f; 
 }
 
 .advantag-hidden-text .advantag-inner-icon-header-text h4 {
-  font-family: Cellofy;
   font-size: 20px;
-  font-weight: 600;
   line-height: 24px;
-  color: #0d0d0d;
-}
-.advantage-image-with-txt:hover .advantag-right-arrow-text_inner p{
-  /* color:#A6BB3A; */
+  color: #04232F; 
 }
 .advantage-image-with-txt:hover .advantag_arrow_link {
     background-color: #A6BB3A;
