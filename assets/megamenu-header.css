@@ -232,7 +232,9 @@ letter-spacing: 0%;
   gap: 2px;
   align-items: center;
 }
-
+.megamenu-second-row .product-360-text-area .common-h5.product-360-header{
+ margin-top:10px; 
+}
 .product-360-text-area {
   display: flex;
   flex-direction: column;
