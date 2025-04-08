@@ -206,21 +206,21 @@
         "icon_text_JXaXgd": {
           "type": "icon-text",
           "settings": {
-            "imageicon": "shopify://shop_images/meal_3.svg",
+            "imageicon": "shopify://shop_images/broccoli.svg",
             "text": "Nutrient retention"
           }
         },
         "icon_text_yBNXnD": {
           "type": "icon-text",
           "settings": {
-            "imageicon": "shopify://shop_images/Frame_245d7616-c300-4823-af8d-a8703db71519_1.svg",
+            "imageicon": "shopify://shop_images/Frame_3.svg",
             "text": "Energy efficiency"
           }
         },
         "icon_text_XgQzQg": {
           "type": "icon-text",
           "settings": {
-            "imageicon": "shopify://shop_images/meal_4.svg",
+            "imageicon": "shopify://shop_images/meal_5.svg",
             "text": "Enhanced flavors"
           }
         }
