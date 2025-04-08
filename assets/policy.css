@@ -11,15 +11,16 @@
       margin-bottom: 60px;
       margin-top: 0;
   }
+  .shipping-container p{ color:#04232F;  }
   .Terms-condition-container .section-heading {
       font-size: 24px;
-      color: #0D0D0D;
+      color: #04232F; 
       padding-bottom: 0;
       margin-bottom: 20px;
   }
   .Terms-condition-container p {
     margin-bottom: 10px;
-    color: #0D0D0D;
+    color: #04232F; 
     font-size: 16px;
   }
   
@@ -52,10 +53,9 @@
           }
   
           .shipping-container h1 {
-             color: var(--Black, #0D0D0D);
+             color: #04232F;
             font-size: 60px;
             font-style: normal;
-            font-weight: 600;
             line-height: 100%; /* 60px */
             letter-spacing: -1.2px;
             
@@ -65,7 +65,7 @@
           }
           .shipping-container h2 {
              font-size:24px;
-              color: #000000;
+              color: #04232F;
               padding-bottom: 10px;
               margin-bottom: 10px;
               padding-top: 10px;
@@ -80,7 +80,7 @@
               margin-bottom: 40px;
           }
         .shipping-container ul li{
-           
+            color:#04232F; 
            font-size:16px;
         }
          @media only screen and (max-width: 767px) {
@@ -101,17 +101,18 @@
           }
   
           .Privacy-Policy-container h1 {
-            color: var(--Black, #0D0D0D);
+            color: #04232F; 
             font-size: 60px;
             font-style: normal;
-            font-weight: 600;
+
             line-height: 100%; /* 60px */
             letter-spacing: -1.2px;
+
           }
-  
+          .Privacy-Policy-container p{ color:#04232F; }
           .Privacy-Policy-container .section-heading {
               font-size:24px;
-              color: #000000;
+              color: #04232F; 
               padding-bottom: 10px;
               margin-bottom: 10px;
               padding-top: 10px;
@@ -152,7 +153,7 @@
   
   
        .lifetime-warranty-container {
-            background: #fcfbf7;
+            background: #ffffff; 
             width: 51%;
             margin: 0px auto;
             padding: 60px 38px;
@@ -167,7 +168,7 @@
   
           .lifetime-warranty-container h2 {
               font-size:24px;
-              color: #000000;
+              color:#04232F; 
               padding-bottom: 10px;
               margin-bottom: 10px;
               padding-top: 10px;
