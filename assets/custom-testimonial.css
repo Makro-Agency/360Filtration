@@ -5,7 +5,7 @@
 	text-align: center;
 	/* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
   border-radius: 15px;
-background: var(--Secondary-Beige, #FAF5EB);
+background: #fafafa; 
 	position: relative;
 	display: flex;
 	align-items: center;
@@ -17,21 +17,16 @@ background: var(--Secondary-Beige, #FAF5EB);
 }
 .testimonial-container .testimonial-quote {
  padding-left:0; 
-	color: #0d0d0d;
+	color:#04232F; 
 	margin: 0;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 100%;
-
 	max-width: 720px;
 	text-align: left;
 	border-left: 0;
-	color: var(--Black, #0D0D0D);
-	/* Header 03 */
-	font-family: Cellofy;
+	font-family: Playfair Display; 
 	font-size: 32px;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 120%;
 	/* 38.4px */
 	letter-spacing: -0.64px;
@@ -61,26 +56,21 @@ background: var(--Secondary-Beige, #FAF5EB);
 }
 
 .testimonial-container .author-name {
-	color: #0d0d0d;
+	color: #04232F;
 	margin: 0;
-	font-family: "Proxima Nova";
 	font-size: 16px;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 150%;
 
 	margin: 0;
 }
 
 .testimonial-container .author-title {
-	color: var(--Green, #606D22);
-	/* Body Text Small / Medium */
-	font-family: "Proxima Nova";
+	color: #143744; 
 	font-size: 12px;
 	font-style: normal;
-	font-weight: 600;
+	font-weight: 500;
 	line-height: 150%;
-	/* 18px */
 	margin: 0;
 }
 
@@ -90,8 +80,8 @@ background: var(--Secondary-Beige, #FAF5EB);
 }
 
 .testimonial-container .author-sign {
-    color: var(--Green, #606D22);
-    font-family: Hurricane;
+    color: #143744; 
+    font-family:Maytra; 
     font-size: 32px;
     font-style: normal;
     font-weight: 400;
