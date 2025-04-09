@@ -169,7 +169,7 @@
 }
 
 input:checked + .slider-toggle {
-  background-color: #a6bb3a;
+  background-color:#A5DDF2;
 }
 
 input:checked + .slider-toggle:before {

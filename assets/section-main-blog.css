@@ -13,7 +13,7 @@
 }
 
 .blog-articles__article:hover .card__content a{
-  color: #c3d957!important;
+  color: #A5DDF2 !important;
   font-weight: 600 !important;
   opacity:1;
 }
@@ -24,8 +24,8 @@
   height: max(94vh) !important;
 }
 #full-blend-hero-section-why1 .full-blend-hero-section-container-box-btn:hover{
-  background: #c3d957 !important;
-  color: #fcfbf7 !important;
+  background: #A5DDF2 !important;
+  color: #04232F !important;
 }
 .main-blog-header {
   text-align: center; margin-bottom: 40px; }

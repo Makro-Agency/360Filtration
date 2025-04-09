@@ -78,7 +78,7 @@
 }
 
 .back_color_light-green {
-  background: #c3d957;
+  background: #A5DDF2;
 }
 
 .advantag-inner-icon-header-text h4 {
@@ -186,7 +186,7 @@
   color: #04232F; 
 }
 .advantage-image-with-txt:hover .advantag_arrow_link {
-    background-color: #A6BB3A;
+    background-color: #A5DDF2;
 }
 @media only screen and (max-width: 1440px) {
   #advatage-section {

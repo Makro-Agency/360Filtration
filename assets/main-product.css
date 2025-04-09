@@ -705,9 +705,8 @@
     font-weight: 400;
     font-size: 32px;
     line-height: 120%;
-    letter-spacing: -2%;
+    letter-spacing: -0.02em;
     text-transform: capitalize;
-    letter-spacing: -0.64px;
     
   }
   @media screen and (max-width: 576px){

@@ -18,7 +18,7 @@ a:hover{
 
 /* menu */
 .cust-inner-menu li:hover a{
-  border-bottom: 1.5px solid #A6BB3A;
+  border-bottom: 1.5px solid #A5DDF2;
   width: fit-content;
 }
 .navabar-desktop .navbar_item .navbar_link:hover {
@@ -28,10 +28,11 @@ a:hover{
   font-family: var(--font-body-family); 
   font-size: 16px;
   line-height: 150%;
+  font-weight:700; 
   letter-spacing: 0;
  }
 .card-wrapper .card--card:hover .card__heading a{
-    color: #c3d957 !important;
+    color: #A5DDF2 !important;
 }
 .link.makro--link{
     font-weight: 700;
@@ -61,11 +62,11 @@ a:hover{
 .pagination__list li:hover .link
 .header-shop-right .link
 .pagination__item:hover{
-  color:#c3d957 !important;
+  color:#A5DDF2 !important;
 }
-.banner-group .banner:hover .link { color: #c3d957; }
+.banner-group .banner:hover .link { color: #A5DDF2;  }
 .social-icons a:hover svg path{
-   fill: #c3d957;
+   fill: #A5DDF2;;
 }
 .navbar_item a{
   align-items: center;
@@ -75,7 +76,7 @@ a:hover{
    color:#143744; 
 }
 .service-content:hover .main_heading{
-     color:#c3d957 !important;
+     color:#A5DDF2 !important;
 }
 /* background box on hover */
 .image-width-text-header{
@@ -116,7 +117,8 @@ a:hover{
 .auther-content .right-arrow:hover,
 .swiper-button-div .swiper-button-prev:hover,
 .swiper-button-div .swiper-button-next:hover{
-  background: #c3d957;
+  background: #A5DDF2;
+  color:#04232F;
 }
 .slide-nav .nav-btn,
 .auther-content .right-arrow,
@@ -137,7 +139,7 @@ a:hover{
 	background:transparent; 
 }
 .template-cart .related-products .slide-nav .nav-btn:hover{
-	background:#c3d957; 
+	background:#A5DDF2; 
 }
 
 /* button hover and custome */
@@ -161,8 +163,8 @@ letter-spacing: 0%;
   min-width: fit-content;
 }
 .button.cta_button:hover {
-    background: #c3d957 !important;
-    color: #fcfbf7 !important;
+    background: #A5DDF2 !important;
+    color: #04232F !important;
 }
 .button.cta_button::before,
 .button.cta_button:after {
@@ -173,18 +175,18 @@ letter-spacing: 0%;
       border: 1px solid;
 }
 .essentials-cookware-set .upgrade-button:hover{
-    background: #a6bb3a;
-    color: #fff;
-    border-color: #a6bb3a;
+    background: #A5DDF2;
+    color:#04232F;
+    border-color: #A5DDF2;
 }
 
 /* line */
 .banner-text-catalog-icon span a:hover{
-    border-color: #c3d957 !important;
+    border-color: #A5DDF2 !important;
 }
 
 .main_privacy a:hover,.main_copyright a:hover{
-  color:#c3d957;
+  color: #A5DDF2;
 }
 .video-group-wrapper .swiper-wrapper{
       align-items: flex-start;
@@ -193,7 +195,7 @@ letter-spacing: 0%;
     border-radius: 15px;
  }
 .video-group custom-deferred-media .js-vimeo{
-  background: #000;
+  background: #04232F;
 }
 @media(max-width:543px){
  .button-block-mob .button.cta_button{

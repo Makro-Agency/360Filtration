@@ -34,12 +34,14 @@
         padding-bottom: {{ section.settings.padding_bottom }}px;
       }
     }
+    .template-cart  .custom-switch-set{ background-color:#fafafa !Important; }
   {%- endstyle -%}
 
   {%- unless settings.cart_type == 'drawer' -%}
     <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
   {%- endunless -%}
 {% endcomment %}
+
 
 {% assign total_cart_compare = 0 %}
 {% assign total_cart_price = 0 %}

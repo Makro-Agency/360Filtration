@@ -90,9 +90,9 @@ a.button.cta_button.small-hide.medium-hide.top-button-class{ display:none; }
 .card .card__inner .card__media .media-content .card--label,
 .card-product-new>.media-content .card--label { padding: 0 10px;
     letter-spacing: .05em;
-    color: #FCFBF7;
+    color: #04232F;
     border-radius: 100px;
-    background: #A6BB3A;
+    background: #A5DDF2;
     line-height: 150%; }
 .card .card__inner .card__media .media-content .card--label.card--label-sale,
 .card-product-new>.media-content .card--label.card--label-sale { background-color: #FA255E; color: #fff; }
