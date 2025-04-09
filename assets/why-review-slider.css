@@ -212,11 +212,11 @@
   width:20px;
 }
 .why-video-btn-eye:hover{
-    background: #c3d957;
-    color: #fff;
+    background: #A5DDF2;
+    color: #04232F;
 }
 .why-video-btn-eye:hover svg path{
-    stroke: #ffffff;
+    stroke: #04232F;
 }
 
 .client-slider-with-text { display: flex; flex-wrap: nowrap; flex-direction: row; }

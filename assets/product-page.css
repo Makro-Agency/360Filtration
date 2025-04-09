@@ -57,7 +57,7 @@
 
 /* Product Info */
 .product__info-container .product__title { margin-bottom:15px; }
-.product__info-container .product__title h1 { color: #000; font-size: 20px; font-style: normal; font-weight: 500; line-height: 100%; letter-spacing: 1px;
+.product__info-container .product__title h1 { color:#04232F; font-size: 20px; font-style: normal; font-weight: 500; line-height: 100%; letter-spacing: 1px;
       text-transform: uppercase; }
 
 .product__info-container div[id*="price-template--"] .price__container { margin:0; }
@@ -111,8 +111,8 @@
      font-weight: 500; line-height: 100%; letter-spacing: 0.6px; text-transform: uppercase; }
 
 .product__info-container .product-form .product-form__submit:not([disabled]):hover {
-  background: #A6BB3A;
- color:#fff; }
+  background: #A5DDF2;
+ color:#04232F; }
 .product__info-container .product-form .product-form__submit:not([disabled]):hover:after { 
   --border-offset: 0px; 
   }
@@ -223,9 +223,9 @@
   margin-top: 20px;
 }
 .cta-btn.show-more:hover {
-  background: #A6BB3A;
-  border-color: #A6BB3A;
-  color: #ffffff;
+  background: #A5DDF2;
+  border-color: #A5DDF2;
+  color: #04232F;
 }
 
 .product__info-container .product__accordion .accordion-item { padding:0; }
@@ -953,8 +953,8 @@ shopify-payment-terms{
 .yotpo-new-review-btn-wrapper #yotpo-main-widget-btn:hover { 
   yotpo-empty-white: #143744;
   --primary-color: #143744; 
- background: #A6BB3A;
-    border-color: #A6BB3A;
+ background: #A5DDF2;
+    border-color: #A5DDF2;
 }
 
 
