@@ -17,7 +17,10 @@
   letter-spacing: -2%;
   color: #04232F;
 }
-
+.ratings-badge span.rating-star{
+  position: relative;
+  top: -12px;
+}
 .title-wrapper .subtitle {
   font-family: Maytra;
   font-size: 32px;
