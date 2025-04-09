@@ -17,12 +17,9 @@
 .custom-support-block .left-content h2 {
 	margin-top: 0;
 	margin-bottom: 20px;
-	color: var(--Black, #0D0D0D);
-	/* Header 02 */
-	font-family: Cellofy;
+	color: #04232F;
 	font-size: 40px;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 100%;
 	/* 40px */
 	letter-spacing: -0.8px;
@@ -72,11 +69,9 @@
 
 .custom-support-block .text-container h3 {
 	margin-top: 0;
-	color: var(--Black, #0D0D0D);
-	font-family: Cellofy;
+	color: #04232F;
 	font-size: 24px;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 120%;
 	letter-spacing: -0.48px;
 	margin-bottom: 10px;
@@ -84,8 +79,7 @@
 
 .custom-support-block .text-container p {
 	margin-top: 0;
-	color: var(--Black, #0D0D0D);
-	font-family: "Proxima Nova";
+	color: #04232F;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -112,8 +106,8 @@
 }
 
 .custom-support-block .sub-title {
-	color: var(--Green, #606D22);
-	font-family: Hurricane;
+	color:#04232F; 
+	font-family: Maytra; 
 	font-size: 32px;
 	font-style: normal;
 	font-weight: 400;
@@ -180,11 +174,9 @@
 }
 
 .custom-support-block .block-svg span {
-	color: var(--Green, #606D22);
-	font-family: "Proxima Nova";
+	color: #04232F;
 	font-size: 12px;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 150%;
 	/* 18px */
 	margin-top: 6px;
