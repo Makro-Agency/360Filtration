@@ -24,14 +24,14 @@
         "icon_text_dHdKXG": {
           "type": "icon_text",
           "settings": {
-            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\">\n  <path d=\"M8.24112 11.6065L11.1923 14.6509L16.3284 9.35947M22.5 12C22.5 13.3151 20.6464 14.247 20.1701 15.3861C19.6938 16.5251 20.3151 18.534 19.4246 19.4246C18.534 20.3151 16.5666 19.6834 15.3861 20.1701C14.2056 20.6568 13.3151 22.5 12 22.5C10.6849 22.5 9.75296 20.6465 8.6139 20.1701C7.47485 19.6938 5.46598 20.3151 4.57544 19.4246C3.68491 18.534 4.31657 16.5666 3.82988 15.3861C3.3432 14.2056 1.5 13.3151 1.5 12C1.5 10.6849 3.35355 9.75296 3.82988 8.61391C4.30621 7.47486 3.68491 5.46597 4.57544 4.57544C5.46598 3.68491 7.43343 4.31657 8.6139 3.82988C9.79438 3.34319 10.6849 1.5 12 1.5C13.3151 1.5 14.247 3.35355 15.3861 3.82988C16.5251 4.30621 18.534 3.68491 19.4246 4.57544C20.3151 5.46597 19.6834 7.43344 20.1701 8.61391C20.6568 9.79438 22.5 10.6849 22.5 12Z\" stroke=\"#A6BB3A\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\">\n  <path d=\"M8.24112 11.6065L11.1923 14.6509L16.3284 9.35947M22.5 12C22.5 13.3151 20.6464 14.247 20.1701 15.3861C19.6938 16.5251 20.3151 18.534 19.4246 19.4246C18.534 20.3151 16.5666 19.6834 15.3861 20.1701C14.2056 20.6568 13.3151 22.5 12 22.5C10.6849 22.5 9.75296 20.6465 8.6139 20.1701C7.47485 19.6938 5.46598 20.3151 4.57544 19.4246C3.68491 18.534 4.31657 16.5666 3.82988 15.3861C3.3432 14.2056 1.5 13.3151 1.5 12C1.5 10.6849 3.35355 9.75296 3.82988 8.61391C4.30621 7.47486 3.68491 5.46597 4.57544 4.57544C5.46598 3.68491 7.43343 4.31657 8.6139 3.82988C9.79438 3.34319 10.6849 1.5 12 1.5C13.3151 1.5 14.247 3.35355 15.3861 3.82988C16.5251 4.30621 18.534 3.68491 19.4246 4.57544C20.3151 5.46597 19.6834 7.43344 20.1701 8.61391C20.6568 9.79438 22.5 10.6849 22.5 12Z\" stroke=\"#143744\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
             "text": "100% Handcrafted in America"
           }
         },
         "icon_text_EMCgNy": {
           "type": "icon_text",
           "settings": {
-            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\">\n  <path d=\"M8.24112 11.6065L11.1923 14.6509L16.3284 9.35947M22.5 12C22.5 13.3151 20.6464 14.247 20.1701 15.3861C19.6938 16.5251 20.3151 18.534 19.4246 19.4246C18.534 20.3151 16.5666 19.6834 15.3861 20.1701C14.2056 20.6568 13.3151 22.5 12 22.5C10.6849 22.5 9.75296 20.6465 8.6139 20.1701C7.47485 19.6938 5.46598 20.3151 4.57544 19.4246C3.68491 18.534 4.31657 16.5666 3.82988 15.3861C3.3432 14.2056 1.5 13.3151 1.5 12C1.5 10.6849 3.35355 9.75296 3.82988 8.61391C4.30621 7.47486 3.68491 5.46597 4.57544 4.57544C5.46598 3.68491 7.43343 4.31657 8.6139 3.82988C9.79438 3.34319 10.6849 1.5 12 1.5C13.3151 1.5 14.247 3.35355 15.3861 3.82988C16.5251 4.30621 18.534 3.68491 19.4246 4.57544C20.3151 5.46597 19.6834 7.43344 20.1701 8.61391C20.6568 9.79438 22.5 10.6849 22.5 12Z\" stroke=\"#A6BB3A\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewbox=\"0 0 24 24\" fill=\"none\">\n  <path d=\"M8.24112 11.6065L11.1923 14.6509L16.3284 9.35947M22.5 12C22.5 13.3151 20.6464 14.247 20.1701 15.3861C19.6938 16.5251 20.3151 18.534 19.4246 19.4246C18.534 20.3151 16.5666 19.6834 15.3861 20.1701C14.2056 20.6568 13.3151 22.5 12 22.5C10.6849 22.5 9.75296 20.6465 8.6139 20.1701C7.47485 19.6938 5.46598 20.3151 4.57544 19.4246C3.68491 18.534 4.31657 16.5666 3.82988 15.3861C3.3432 14.2056 1.5 13.3151 1.5 12C1.5 10.6849 3.35355 9.75296 3.82988 8.61391C4.30621 7.47486 3.68491 5.46597 4.57544 4.57544C5.46598 3.68491 7.43343 4.31657 8.6139 3.82988C9.79438 3.34319 10.6849 1.5 12 1.5C13.3151 1.5 14.247 3.35355 15.3861 3.82988C16.5251 4.30621 18.534 3.68491 19.4246 4.57544C20.3151 5.46597 19.6834 7.43344 20.1701 8.61391C20.6568 9.79438 22.5 10.6849 22.5 12Z\" stroke=\"#143744\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n</svg>",
             "text": "Powered by 100% Wind Energy"
           }
         }
@@ -57,7 +57,7 @@
           "settings": {
             "position": "left",
             "title": "July, 2004",
-            "description": "Led by our founder Bryan, the Hurley family invested its life’s savings to break ground on a state of the art cookware and bakeware manufacturing facility in Southeast Wisconsin, also known as the heart of American Cookware manufacturing.  This bold move was the family’s best effort to protect the industry and the American made jobs it supported. If the family had moved production to China like many other companies at the time, they would have seen a 60% increase in profits. However, their gamble paid off, and their facility is now cost competitive with similar off shore options.",
+            "description": "Led by our founder Bryan, the Hurley family invested its life’s savings to break ground on a state of the art cookware and bakeware manufacturing facility in Southeast Wisconsin, also known as the heart of American Cookware manufacturing.  This bold move was the family’s best effort to protect the industry and the American made jobs it supported.",
             "image": "shopify://shop_images/Full_Building_1.jpg"
           }
         },
@@ -75,7 +75,7 @@
           "settings": {
             "position": "left",
             "title": "2008",
-            "description": "360cookware.com was born as the world’s first direct to consumer cookware brand. Bryan’s vision was to upgrade the look of the product and remove the barriers for customers to purchase, all while making it more affordable. Up until this point the only way to purchase this high quality product was via a live demonstration. While this has always been and remains a successful model, its reach is limited. His disruptive approach was not well received by the industry as the future of ecommerce was an unknown at that point. History shows how his decision played out.",
+            "description": "360cookware.com was born as the world’s first direct to consumer cookware brand. Bryan’s vision was to upgrade the look of the product and remove the barriers for customers to purchase, all while making it more affordable. Up until this point the only way to purchase this high quality product was via a live demonstration.",
             "image": "shopify://shop_images/1L5A3523_1.jpg"
           }
         },
@@ -84,7 +84,7 @@
           "settings": {
             "position": "right",
             "title": "September, 2024",
-            "description": "Bryan recognized 360 Cookware was struggling due to limited resources and a lack of marketing expertise, particularly in ecommerce.  He persuaded his wife, Beth to leave her biotech career to help him officially launch 360 Cookware as its own company. Although her background was in launching new pharmaceutical products, her skills proved invaluable in successfully launching 360 Cookware as a woman owned small business.",
+            "description": "Bryan recognized 360 Cookware was struggling due to limited resources and a lack of marketing expertise, particularly in ecommerce.  He persuaded his wife, Beth to leave her biotech career to help him officially launch 360 Cookware as its own company.",
             "image": "shopify://shop_images/beth_bryan_1.jpg"
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "position": "left",
             "title": "2024",
-            "description": "360 Cookware has transformed more than 70,000 kitchens into the best dining experience possible. With a network of more than one thousand influencers and affiliates, 360 Cookware proudly maintains its Made in USA status at an affordable price, backed by industry-leading customer service and a product that customers passionately stand by.",
+            "description": "360 Cookware has transformed more than 70,000 kitchens into the best dining experience possible. With a network of more than one thousand influencers and affiliates, 360 Cookware proudly maintains its Made in USA status at an affordable price, backed by industry-leading customer service",
             "image": "shopify://shop_images/beth_bryan_1_c1a30fa0-4905-4b69-9e34-1cb2d7b55b66.jpg"
           }
         }
@@ -180,7 +180,7 @@
         "content_block_m7amTX": {
           "type": "content_block",
           "settings": {
-            "icon_svg": "shopify://shop_images/Frame_6175_1_4.svg",
+            "icon_svg": "shopify://shop_images/Frame_6175_11.svg",
             "statement_title": "Heirloom Quality for Generations",
             "statement_text": "Our cookware is built to last a lifetime, reducing waste and providing value that spans generations."
           }
@@ -188,7 +188,7 @@
         "content_block_LAGCGT": {
           "type": "content_block",
           "settings": {
-            "icon_svg": "shopify://shop_images/Frame_6175_1_4.svg",
+            "icon_svg": "shopify://shop_images/Frame_6175_11.svg",
             "statement_title": "Healthier Cooking, Healthier Families",
             "statement_text": "With our innovative Vapor® Technology, you can cook nutritious meals using less oil and retaining more vitamins and minerals."
           }
@@ -196,7 +196,7 @@
         "content_block_gEXLem": {
           "type": "content_block",
           "settings": {
-            "icon_svg": "shopify://shop_images/Frame_6175_1_4.svg",
+            "icon_svg": "shopify://shop_images/Frame_6175_11.svg",
             "statement_title": "Eco-Friendly from Start to Finish",
             "statement_text": "From our wind-powered factory to our durable products, we're committed to minimizing our environmental impact at every step."
           }
@@ -252,7 +252,7 @@
       ],
       "settings": {
         "title": "Our Green Manufacturing Promise",
-        "svgicon": "shopify://shop_images/Icon_1.svg"
+        "svgicon": "shopify://shop_images/Icon.svg"
       }
     },
     "home_cookware_ktUFfg": {
@@ -264,9 +264,9 @@
             "enable_video_looping": false,
             "cover_image": "shopify://shop_images/Image_fd1d78c0-d7b0-4c5b-8f8b-ed2f2f8a74c7_2.png",
             "cover_image_mobile": "shopify://shop_images/Image_fd1d78c0-d7b0-4c5b-8f8b-ed2f2f8a74c7_3.png",
-            "reviews_image": "shopify://shop_images/reviews_64e638d0-51f8-451c-a82a-1fcdda2e389c_4.png",
+            "reviews_image": "shopify://shop_images/Frame_6176_2.png",
             "auther_message": "“I've cooked with this cookware for over 15 years, and it still looks as good as the day I bought it. My husband and I cook all our meals at home, and we are constantly amazed at how easy it is to clean up after even the stickiest of meals.”",
-            "auther_image": "shopify://shop_images/check-verified_3_1.svg",
+            "auther_image": "shopify://shop_images/photo_middle_age_woman_avatar_7.png",
             "auther_name": "Debbie K.",
             "auther_verification": "Verified Buyer",
             "prod": "maple-2-inch-condiment-cups"
@@ -278,9 +278,9 @@
             "enable_video_looping": false,
             "cover_image": "shopify://shop_images/Image_a8ec91ee-be91-4027-a443-b559b2fd82e5_2.png",
             "cover_image_mobile": "shopify://shop_images/Image_a8ec91ee-be91-4027-a443-b559b2fd82e5_3.png",
-            "reviews_image": "shopify://shop_images/reviews_64e638d0-51f8-451c-a82a-1fcdda2e389c_5.png",
+            "reviews_image": "shopify://shop_images/Frame_6176_2.png",
             "auther_message": "\"The quality of these pans is unmatched. They heat evenly, clean up easily, and have made cooking a joy again. Plus, knowing they're made in the USA with sustainable practices makes me feel good about my purchase.\"",
-            "auther_image": "shopify://shop_images/check-verified_3_1_17c09061-3b59-4ba4-ac36-06c490900dea.svg",
+            "auther_image": "shopify://shop_images/Frame_5627_3.png",
             "auther_name": "Michael R.",
             "auther_verification": "Verified Buyer",
             "prod": "maple-2-inch-condiment-cups"
@@ -292,9 +292,9 @@
             "enable_video_looping": false,
             "cover_image": "shopify://shop_images/LumixSync_copy_2023-01-05_20_28_43_0000JpegFile_1_2.png",
             "cover_image_mobile": "shopify://shop_images/LumixSync_copy_2023-01-05_20_28_43_0000JpegFile_1_3.png",
-            "reviews_image": "shopify://shop_images/reviews_64e638d0-51f8-451c-a82a-1fcdda2e389c_6.png",
+            "reviews_image": "shopify://shop_images/Frame_6176_2.png",
             "auther_message": "“As a nutritionist, I'm thrilled to recommend 360 Cookware to my clients. It's the perfect blend of safe, non-toxic materials and superior cooking performance. My family enjoys healthier, more flavorful meals without worrying about harmful chemicals leaching into our food.”",
-            "auther_image": "shopify://shop_images/check-verified_3_1_17c09061-3b59-4ba4-ac36-06c490900dea.svg",
+            "auther_image": "shopify://shop_images/photo_middle_age_woman_avatar_7.png",
             "auther_name": "Sarah M.",
             "auther_verification": "Verified Buyer",
             "prod": "maple-2-inch-condiment-cups"
@@ -312,7 +312,7 @@
         "banner_description": "2% Reduced carbon footprint \nof local production",
         "banner_link": "shopify://pages/catalog",
         "banner_button_text": "Bring American Craftsmanship to Your Kitchen",
-        "icon": "shopify://shop_images/Frame_6175_1.png"
+        "icon": "shopify://shop_images/Frame_6175.png"
       }
     },
     "custom_support_block_D8tC7B": {
@@ -321,7 +321,7 @@
         "image_gKw8id": {
           "type": "image",
           "settings": {
-            "icon_svg": "shopify://shop_images/Frame_6175_1_5.svg",
+            "icon_svg": "shopify://shop_images/Frame_6175_11.svg",
             "title": "Unwavering Quality",
             "description": "We commit to maintaining the highest standards of craftsmanship, ensuring each piece of 360 Cookware is built to last a lifetime."
           }
@@ -329,7 +329,7 @@
         "image_NTRckY": {
           "type": "image",
           "settings": {
-            "icon_svg": "shopify://shop_images/Frame_6177_1.svg",
+            "icon_svg": "shopify://shop_images/Frame_6177_3.svg",
             "title": "Environmental Stewardship",
             "description": "We promise to uphold and expand our eco-friendly practices, minimizing our environmental impact in all aspects of our business."
           }
@@ -337,7 +337,7 @@
         "image_NwRjeE": {
           "type": "image",
           "settings": {
-            "icon_svg": "shopify://shop_images/Frame_6178_1.svg",
+            "icon_svg": "shopify://shop_images/Frame_6178_3.svg",
             "title": "Continued Innovation",
             "description": "We pledge to continually innovate our products and processes, always seeking ways to improve performance and sustainability."
           }
@@ -345,7 +345,7 @@
         "image_E8AGiU": {
           "type": "image",
           "settings": {
-            "icon_svg": "shopify://shop_images/Frame_6176_1.svg",
+            "icon_svg": "shopify://shop_images/Frame_6176_3.svg",
             "title": "Community Support",
             "description": "We commit to supporting local communities through job creation and sustainable manufacturing practices."
           }
@@ -353,42 +353,42 @@
         "image_row_tzPmxd": {
           "type": "image_row",
           "settings": {
-            "svg": "shopify://shop_images/fi_861795_1.svg",
+            "svg": "shopify://shop_images/fi_861795_3.svg",
             "text_1": "Made in USA"
           }
         },
         "image_row_WYWkXJ": {
           "type": "image_row",
           "settings": {
-            "svg": "shopify://shop_images/fi_861795_1.svg",
+            "svg": "shopify://shop_images/fi_861795_3.svg",
             "text_1": "Eco-Friendly"
           }
         },
         "image_row_qXNXnx": {
           "type": "image_row",
           "settings": {
-            "svg": "shopify://shop_images/fi_861795_1.svg",
+            "svg": "shopify://shop_images/fi_861795_3.svg",
             "text_1": "Lifetime Quality"
           }
         },
         "image_row_eL48Gt": {
           "type": "image_row",
           "settings": {
-            "svg": "shopify://shop_images/fi_861795_1.svg",
+            "svg": "shopify://shop_images/fi_861795_3.svg",
             "text_1": "Non-Toxic"
           }
         },
         "image_row_eNXiND": {
           "type": "image_row",
           "settings": {
-            "svg": "shopify://shop_images/fi_861795_1.svg",
+            "svg": "shopify://shop_images/fi_861795_3.svg",
             "text_1": "Made in USA"
           }
         },
         "image_row_R9tRjy": {
           "type": "image_row",
           "settings": {
-            "svg": "shopify://shop_images/fi_861795_1.svg",
+            "svg": "shopify://shop_images/fi_861795_3.svg",
             "text_1": "Family-Owned"
           }
         }
@@ -406,7 +406,7 @@
         "image_row_R9tRjy"
       ],
       "settings": {
-        "bgcolor": "#faf5eb",
+        "bgcolor": "#fafafa",
         "sub_title": "Sustainability Commitments",
         "main_title": "Our Commitment to America and the Planet",
         "cta_link": "shopify://collections",
