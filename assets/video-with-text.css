@@ -180,7 +180,7 @@
   .why-video-column {
     position: relative;
   }
-  
+  .why-video-btn-eye svg path{ stroke:#04232F; }
   .why-video-btn-eye {
     display: inline-flex;
     padding: 14px 25px;

@@ -45,8 +45,10 @@
   .products-included-wrapper .product-included-lists .content-wrapper a{
     font-size: 16px;
   font-style: normal;
-  font-weight: 800;
-    color: #000;
+  font-family:lato; 
+  font-weight: 500;
+  letter-spacing:0; 
+    color: #04232F;
   }
   .products-included-wrapper .product-included-lists .show-more-button {
     color: #143744;

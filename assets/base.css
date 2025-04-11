@@ -678,7 +678,7 @@ details > * {
   /* color: #c3d957; */
   text-decoration-thickness: 0.2rem;
 }
-
+.video-group ul li.blog-meta svg path{ stroke:#04232F; }
 .icon-arrow {
   width: 1.5rem;
 }
