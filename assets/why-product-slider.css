@@ -96,6 +96,7 @@
   color: #04232F;
   display: inline-flex;
 }
+.button.cta_button:hover svg path{ stroke:#04232F; }
 .sale-button a {
   font-family: Proxima Nova;
   font-size: 12px;
