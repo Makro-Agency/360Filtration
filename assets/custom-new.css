@@ -308,9 +308,11 @@ cart-drawer .drawer__inner{
 
 .shopify-section-header-sticky.scrolled-past-header .header.index-header {
   position: fixed !important;
-  background: #FCFBF7;
+  background: #fafafa; 
   top: 0;
 }
+
+
 .megamenu-about-content-main .product-360-link a{
   border-bottom: 2px solid transparent !important;
 }
