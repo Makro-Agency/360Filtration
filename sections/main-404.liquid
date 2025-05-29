@@ -1,0 +1,47 @@
+<style type="text/css">
+  .template-404 .title + * {
+    margin-top: 1rem;
+  }
+
+  @media screen and (min-width: 750px) {
+    .template-404 .title + * {
+      margin-top: 2rem;
+    }
+  }
+  .template-404 .button{
+    background: #00406e;
+    color: #fff;
+    font-size: 16px;
+    line-height: 100%;
+    font-weight: 500;
+    border-radius: 100px;
+    padding: 15px 25px;
+    letter-spacing: 0;
+    height: 50px;
+    width: max-content;
+    align-items: center;
+    display: inline-flex;
+    gap: 10px;
+    min-height: auto;
+    max-width: fit-content;
+    min-width: fit-content;
+  }
+   .template-404 .button:hover{ background: #b2c0ca;
+    color: #00203f;}
+    @media screen and (min-width:1200px){
+  .template-404  .title{ font-size:60px; } 
+    }
+   
+</style>
+
+<div class="template-404 page-width page-margin center">
+  <p>
+    {{ 'templates.404.subtext' | t }}
+  </p>
+  <h1 class="title">
+    {{ 'templates.404.title' | t }}
+  </h1>
+  <a href="{{ routes.all_products_collection_url }}" class="button">
+    {{ 'general.continue_shopping' | t }}
+  </a>
+</div>
