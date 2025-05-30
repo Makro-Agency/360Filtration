@@ -180,6 +180,8 @@
             "link_text_1": "Shop All Cookware",
             "link_url_1": "shopify://collections/collection-demo",
             "header_text": "Cookware Bestsellers",
+            "desktop_image_1": "shopify://shop_images/Image_15_4.png",
+            "mobile_image_1": "shopify://shop_images/Image_15_4.png",
             "header_text_1": "Shop Bestsellers",
             "paragraph_text_1": "Explore our top-selling products. From cookware essentials, to baking products these items have proven their worth time and time again.",
             "cta_link_1": "shopify://collections/collection-demo",
