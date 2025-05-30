@@ -498,6 +498,8 @@
           "settings": {
             "enable_video_looping": false,
             "video_url": "https://www.youtube.com/watch?v=Y_C4eOMDMmA",
+            "cover_image": "shopify://shop_images/Image_24_6.png",
+            "cover_image_mobile": "shopify://shop_images/Image_24_7.png",
             "whatneed": "Whats You'll Need:",
             "time": "20 mins",
             "difficult": "Easy",
@@ -510,6 +512,8 @@
           "settings": {
             "enable_video_looping": false,
             "video_url": "https://www.youtube.com/watch?v=WswLhc79_1g",
+            "cover_image": "shopify://shop_images/Image_25_5.png",
+            "cover_image_mobile": "shopify://shop_images/Image_25_6.png",
             "whatneed": "Whats You'll Need:",
             "time": "10 mins",
             "difficult": "Medium",
@@ -522,6 +526,8 @@
           "settings": {
             "enable_video_looping": false,
             "video_url": "https://www.youtube.com/watch?v=VGyH6MHyDqQ",
+            "cover_image": "shopify://shop_images/Image_26_4.png",
+            "cover_image_mobile": "shopify://shop_images/Image_26_5.png",
             "whatneed": "Whats You'll Need:",
             "time": "15 mins",
             "difficult": "Easy",
