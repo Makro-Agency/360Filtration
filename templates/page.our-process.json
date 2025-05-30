@@ -321,7 +321,7 @@
         "image_gKw8id": {
           "type": "image",
           "settings": {
-            "icon_svg": "shopify://shop_images/cookingware.svg",
+            "icon_svg": "shopify://shop_images/Frame_6175-2_2.svg",
             "title": "Unwavering Quality",
             "description": "We commit to maintaining the highest standards of craftsmanship, ensuring each piece of 360 Cookware is built to last a lifetime."
           }
@@ -329,7 +329,7 @@
         "image_NTRckY": {
           "type": "image",
           "settings": {
-            "icon_svg": "shopify://shop_images/Frame_6175-2.svg",
+            "icon_svg": "shopify://shop_images/Frame_6175-2_3.svg",
             "title": "Environmental Stewardship",
             "description": "We promise to uphold and expand our eco-friendly practices, minimizing our environmental impact in all aspects of our business."
           }
@@ -337,6 +337,7 @@
         "image_NwRjeE": {
           "type": "image",
           "settings": {
+            "icon_svg": "shopify://shop_images/circle-with-tick.svg",
             "title": "Continued Innovation",
             "description": "We pledge to continually innovate our products and processes, always seeking ways to improve performance and sustainability."
           }
@@ -344,6 +345,7 @@
         "image_E8AGiU": {
           "type": "image",
           "settings": {
+            "icon_svg": "shopify://shop_images/trophy-with-black-bg.svg",
             "title": "Community Support",
             "description": "We commit to supporting local communities through job creation and sustainable manufacturing practices."
           }
@@ -351,36 +353,42 @@
         "image_row_tzPmxd": {
           "type": "image_row",
           "settings": {
+            "svg": "shopify://shop_images/flag.svg",
             "text_1": "Made in USA"
           }
         },
         "image_row_WYWkXJ": {
           "type": "image_row",
           "settings": {
+            "svg": "shopify://shop_images/flag_7ce976a8-f120-4494-bcfc-d89aa63a1740.svg",
             "text_1": "Eco-Friendly"
           }
         },
         "image_row_qXNXnx": {
           "type": "image_row",
           "settings": {
+            "svg": "shopify://shop_images/flag_05092a5a-ae01-47e9-98b0-8ff8e5867f7c.svg",
             "text_1": "Lifetime Quality"
           }
         },
         "image_row_eL48Gt": {
           "type": "image_row",
           "settings": {
+            "svg": "shopify://shop_images/flag_c7a31045-5457-4378-840b-3b483e390e11.svg",
             "text_1": "Non-Toxic"
           }
         },
         "image_row_eNXiND": {
           "type": "image_row",
           "settings": {
+            "svg": "shopify://shop_images/flag_178b2247-3d5f-4b95-aca2-a2c1454a6ab6.svg",
             "text_1": "Made in USA"
           }
         },
         "image_row_R9tRjy": {
           "type": "image_row",
           "settings": {
+            "svg": "shopify://shop_images/Image_28_4.png",
             "text_1": "Family-Owned"
           }
         }
