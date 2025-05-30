@@ -1,1 +1,495 @@
-{"sections":{"main":{"type":"main-product","blocks":{"yotpo_product_reviews_star_rating_apkGiV":{"type":"shopify:\/\/apps\/yotpo-product-reviews\/blocks\/star-rating\/eb7dfd7d-db44-4334-bc49-c893b51b36cf","settings":{"product":"{{product}}"}},"title":{"type":"title","settings":{}},"shortdetails_tUdhaq":{"type":"shortdetails","settings":{}},"615c3fca-3aaf-48d4-8f98-70af55b3903e":{"type":"custom_liquid","disabled":true,"settings":{"custom_liquid":"<div style=\"color: #000; font-size: 80%\"> GET A FREE BLOUSE, DUPATTA, OR JEWELRY ITEM WHEN YOU <BR> PURCHASE A SKIRT OR SUIT | <B> USE CODE: FALLSALE2023 <\/B> <\/div>"}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"picker_type":"button","tooltip_content":"<p>We drop new limited edition pieces every month. When a limited edition piece is sold out, it will <strong>NEVER<\/strong> be restocked. Shop now while quantities last<\/p>","load_ajax":false}},"essentials_rJKBBL":{"type":"Essentials","settings":{"product":"stainless-steel-1-quart-saucepan-with-cover-new-logo","title":"The Essentials Cookware Set","description":"Experience healthier, more flavorful meals with Vapor® cooking technology, featuring a 1-quart saucepan and a 3.5-quart sauté pan for perfect vegetables, proteins, and side dishes.","product_image":"shopify:\/\/shop_images\/product-media_1.png","price":"$96.0","compare_price":"$120.40","button_text":"Upgrade to Set","button_link":"","show_sale_badge":true}},"quantity_selector_g6FEyA":{"type":"quantity_selector","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":false,"show_gift_card_recipient":false}},"custom_liquid_GWJjEK":{"type":"custom_liquid","disabled":true,"settings":{"custom_liquid":"<script id=\"attn-waitlist-eligibility\" type=\"application\/json\">{\n{%- liquid\nfor variant in product.variants\nassign eligibility = 'false'\nif variant.inventory_quantity <= 0\nassign eligibility = 'true'\nendif\nassign entry = '\"' | append: variant.id | append: '\":' | append: eligibility\nunless forloop.last\nassign entry = entry | append: ','\nendunless\n\necho entry\nendfor\n-%}\n}<\/script>\n<div id=\"attn-waitlist-trigger\"><\/div>"}},"sales_point_HEPerc":{"type":"sales_point","settings":{"icon":"free-tag","text":"Free Exchanges"}},"sales_point_CdyhdB":{"type":"sales_point","settings":{"icon":"exchange","text":"Free Shipping"}},"sales_point_3TtEt9":{"type":"sales_point","settings":{"icon":"return","text":"Lifetime Warranty"}},"feature_media_Cwg4ij":{"type":"feature-media","settings":{"icon":"shopify:\/\/shop_images\/microwave.svg","title":"Oven Safe Up To 500°","description":""}},"feature_media_B8QzPA":{"type":"feature-media","settings":{"icon":"shopify:\/\/shop_images\/cold.svg","title":"Stay Cool Long Handle","description":""}},"feature_media_j7QKNj":{"type":"feature-media","settings":{"icon":"shopify:\/\/shop_images\/Capa_1.svg","title":"Induction Capable","description":""}},"feature_media_z9aUNP":{"type":"feature-media","settings":{"icon":"shopify:\/\/shop_images\/Capa_1_1_9534dc4d-a994-458b-a577-c343948025f3.svg","title":"Handcrafted in the U.S.A","description":""}},"video_media_kcwfqr":{"type":"video-media","settings":{"video_url":"{{ product.metafields.custom.see_it_in_action.value.video_url.value }}","thumbnail":"{{ product.metafields.custom.see_it_in_action.value.thumbnail_image.value }}","title":"{{ product.metafields.custom.see_it_in_action.value.title.value }}","subtitle":"Chef's Tips","description":"{{ product.metafields.custom.see_it_in_action.value.description.value }}"}}},"block_order":["yotpo_product_reviews_star_rating_apkGiV","title","shortdetails_tUdhaq","615c3fca-3aaf-48d4-8f98-70af55b3903e","price","variant_picker","essentials_rJKBBL","quantity_selector_g6FEyA","buy_buttons","custom_liquid_GWJjEK","sales_point_HEPerc","sales_point_CdyhdB","sales_point_3TtEt9","feature_media_Cwg4ij","feature_media_B8QzPA","feature_media_j7QKNj","feature_media_z9aUNP","video_media_kcwfqr"],"custom_css":[".custompromo {background-color: #990000; text-align: left; padding-top: 10px; padding-bottom: 20px; color: #ffffff; padding-left: 20px; padding-right: 20px;}",".custompromo a {color: #ffffff; font-size: 70%;}",".custompromo h3 {padding-top: 45px; margin-top: -10px; letter-spacing: -1px; font-weight: 500; font-size: 300%; line-height: 0; color: #ffffff;}",".b {font-size: 100%; padding-bottom: 0px; padding-top: 10px;}"],"settings":{"klaviyo_id":"WM3mUX","enable_sticky_info":false,"media_size":"medium","constrain_to_viewport":false,"show_thumbnailleft":true,"media_fit":"cover","gallery_layout":"thumbnail","media_position":"left","image_zoom":"lightbox","mobile_thumbnails":"hide","hide_variants":true,"enable_video_looping":true,"currency_code_enabled":true,"padding_top":0,"padding_bottom":80}},"139d6e74a2b1c4b31b9f":{"type":"apps","blocks":{"f29f0c35-034a-40c8-b195-47026e66aecd":{"type":"shopify:\/\/apps\/yotpo-product-reviews\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf","settings":{"product":"{{product}}"}}},"block_order":["f29f0c35-034a-40c8-b195-47026e66aecd"],"settings":{"include_margins":true}},"1742900913d8d30b8e":{"type":"apps","blocks":{"yotpo_product_reviews_reviews_J8MzfU":{"type":"shopify:\/\/apps\/yotpo-product-reviews\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf","settings":{"product":""}}},"block_order":["yotpo_product_reviews_reviews_J8MzfU"],"settings":{"include_margins":true}},"review-widget":{"type":"product-review-widget","disabled":true,"settings":{"padding_top":0,"padding_bottom":0}},"pdp_meta_benefits_slider_EydyPJ":{"type":"pdp-meta-benefits-slider","blocks":{"slide_GGNQYj":{"type":"slide","settings":{"title":"Pro-Grade Capacity","description":"Unleash your culinary creativity with this spacious 2-quart powerhouse!"}}},"block_order":["slide_GGNQYj"],"settings":{"heading":"One Tool, Lots of Benefits.","subheading":"Trusted in over <br>60,000 kitchens","padding_top":36,"padding_bottom":36}},"pdp_faq_EaUb6y":{"type":"pdp-faq","blocks":{"faq_ereXFF":{"type":"faq","settings":{"que":"Care & Product Guides","ans":"<p>This guide will help you maximize your cookware's benefits, enabling healthier, delicious meals. Please review these care instructions before first use.<br\/><\/p><p>See here: <a href=\"https:\/\/360table.myshopify.com\/pages\/use-care-guide\" target=\"_blank\" title=\"https:\/\/360table.myshopify.com\/pages\/use-care-guide\"><span style=\"text-decoration:underline\"><strong>Use & Care Guides<\/strong><\/span><\/a><\/p>","enable_metafiled":true,"metafiled":"{% assign user_language = request.locale.iso_code %}\n        {{ product.metafields.CW360_faq.care__product_guides[user_language] }}","hide_tab":"hide-case"}}},"block_order":["faq_ereXFF"],"settings":{"title":"Dimensions \u2028&amp; Specification","des":"","faq_title_1":"Full product details","faq_title_2":"What's included","padding_top":36,"padding_bottom":36}},"1726589780a38322d3":{"type":"apps","disabled":true,"settings":{"include_margins":true}},"product_chef_creations_eDUydU":{"type":"Product-Chef-Creations","blocks":{"video_block_7MFJXf":{"type":"video_block","settings":{"enable_video_looping":false,"video_url":"","video_url_mobile":""}},"video_block_gU7qVW":{"type":"video_block","settings":{"enable_video_looping":false,"video_url":"","video_url_mobile":""}},"video_block_izbyaz":{"type":"video_block","settings":{"enable_video_looping":false,"video_url":"","video_url_mobile":""}},"video_block_nrhPX9":{"type":"video_block","settings":{"enable_video_looping":false,"video_url":"","video_url_mobile":""}}},"block_order":["video_block_7MFJXf","video_block_gU7qVW","video_block_izbyaz","video_block_nrhPX9"],"settings":{"background_color":"#f7f9fa","main_heading":"Chef Creations\u2028Cooked with 360","block_descrption":"Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.","button_link":"shopify:\/\/collections\/all","button_text":"Shop Now"}},"pdp_second_faq_UB7EQD":{"type":"pdp-second-faq","blocks":{"faq_LDwKKe":{"type":"faq","settings":{"que":"Dolor sit amet, consectetur elit?","ans":"<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br\/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.<\/p>"}},"faq_JrPet3":{"type":"faq","settings":{"que":"Class aptent taciti sociosqu?","ans":"<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br\/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.<\/p>"}},"faq_B7ia9w":{"type":"faq","settings":{"que":"Korem ipsum dolor sit amet, consectetur adipiscing elit?","ans":"<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br\/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.<\/p>"}},"faq_hkwrDq":{"type":"faq","settings":{"que":"Dolor sit amet, consectetur elit?","ans":"<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br\/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.<\/p>"}}},"block_order":["faq_LDwKKe","faq_JrPet3","faq_B7ia9w","faq_hkwrDq"],"settings":{"bgcolor":"#f7f9fa","title":"All Your Questions Answered","des":"Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Class aptent taciti sociosqu ad litora.","padding_top":100,"padding_bottom":100}},"pdp_guide_VhfYGR":{"type":"pdp-guide","blocks":{"service_FVD8fN":{"type":"service","settings":{"icon_svg":"<svg width=\"50\" height=\"50\" viewbox=\"0 0 50 50\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><rect width=\"50\" height=\"50\" rx=\"25\" fill=\"#00406E\"><\/rect><path d=\"M14.5 22.9H35.5M16.6 22.9L17.1291 28.7204C17.3765 31.4416 17.5002 32.8021 18.4025 33.6261C19.3047 34.45 20.6709 34.45 23.4033 34.45H26.5967C29.329 34.45 30.6953 34.45 31.5976 33.6261C32.4998 32.8021 32.6235 31.4416 32.8709 28.7204L33.4 22.9M16.6 20.8L21.85 19.3821M21.85 19.3821L28.15 17.6805M21.85 19.3821L22.0659 17.5574C22.1449 16.8901 22.6189 16.3384 23.263 16.1645L25.3303 15.6061C25.9743 15.4322 26.6586 15.671 27.0579 16.2091L28.15 17.6805M28.15 17.6805L33.4 16.2625\" stroke=\"#FCFBF7\" stroke-width=\"1.5\" stroke-linecap=\"round\"><\/path><\/svg>","title":"Product Care Guide","description":"Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate consectetur libero et velit um interdum, ac aliquet.","link":"shopify:\/\/pages\/use-care-guide","link_text":"Explore Now"}},"service_qYRqKh":{"type":"service","settings":{"icon_svg":"<svg width=\"50\" height=\"50\" viewbox=\"0 0 50 50\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><rect width=\"50\" height=\"50\" rx=\"25\" fill=\"#566E7E\"><\/rect><path d=\"M14.5 22.9H35.5M16.6 22.9L17.1291 28.7204C17.3765 31.4416 17.5002 32.8021 18.4025 33.6261C19.3047 34.45 20.6709 34.45 23.4033 34.45H26.5967C29.329 34.45 30.6953 34.45 31.5976 33.6261C32.4998 32.8021 32.6235 31.4416 32.8709 28.7204L33.4 22.9M16.6 20.8L21.85 19.3821M21.85 19.3821L28.15 17.6805M21.85 19.3821L22.0659 17.5574C22.1449 16.8901 22.6189 16.3384 23.263 16.1645L25.3303 15.6061C25.9743 15.4322 26.6586 15.671 27.0579 16.2091L28.15 17.6805M28.15 17.6805L33.4 16.2625\" stroke=\"#FCFBF7\" stroke-width=\"1.5\" stroke-linecap=\"round\"><\/path><\/svg>","title":"Starting Guides","description":"Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate consectetur libero et velit um interdum, ac aliquet.","link":"shopify:\/\/pages\/use-care-guide","link_text":"Explore Now"}},"help_LXrqnN":{"type":"help","settings":{"title":"Need Help to Get Started?","description":"Praesent auctor purus luctus, ac scelerisque ante pulvinar. Class aptent taciti sociosqu ad litora.","link":"\/","link_text":"Explore Now"}}},"block_order":["service_FVD8fN","service_qYRqKh","help_LXrqnN"],"settings":{"bgcolor":"#f7f9fa","padding_top":52,"padding_bottom":100}},"172500374596313ea4":{"type":"apps","blocks":{"yotpo_product_reviews_reviews_Jx8Wit":{"type":"shopify:\/\/apps\/yotpo-product-reviews\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf","settings":{"product":"{{product}}"}}},"block_order":["yotpo_product_reviews_reviews_Jx8Wit"],"settings":{"include_margins":true}},"related-products":{"type":"related-products","disabled":true,"settings":{"title":"Luc Vincent Bestsellers","collection":"","noOfProduct":10,"enable_quick_add":false}},"recently_viewed_products_L4KVbG":{"type":"recently-viewed-products","disabled":true,"settings":{"title":"You May Also Like","image_ratio":"square","show_secondary_image":false}},"recommendations_C8H7DX":{"type":"recommendations","settings":{"heading":"You May Also Like","heading_size":"h1","products_to_show":10,"columns_desktop":4,"color_scheme":"","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":0,"padding_bottom":0}}},"order":["main","139d6e74a2b1c4b31b9f","1742900913d8d30b8e","review-widget","pdp_meta_benefits_slider_EydyPJ","pdp_faq_EaUb6y","1726589780a38322d3","product_chef_creations_eDUydU","pdp_second_faq_UB7EQD","pdp_guide_VhfYGR","172500374596313ea4","related-products","recently_viewed_products_L4KVbG","recommendations_C8H7DX"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "yotpo_product_reviews_star_rating_apkGiV": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "shortdetails_tUdhaq": {
+          "type": "shortdetails",
+          "settings": {}
+        },
+        "615c3fca-3aaf-48d4-8f98-70af55b3903e": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<div style=\"color: #000; font-size: 80%\"> GET A FREE BLOUSE, DUPATTA, OR JEWELRY ITEM WHEN YOU <BR> PURCHASE A SKIRT OR SUIT | <B> USE CODE: FALLSALE2023 </B> </div>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "tooltip_content": "<p>We drop new limited edition pieces every month. When a limited edition piece is sold out, it will <strong>NEVER</strong> be restocked. Shop now while quantities last</p>",
+            "load_ajax": false
+          }
+        },
+        "essentials_rJKBBL": {
+          "type": "Essentials",
+          "settings": {
+            "product": "stainless-steel-1-quart-saucepan-with-cover-new-logo",
+            "title": "The Essentials Cookware Set",
+            "description": "Experience healthier, more flavorful meals with Vapor® cooking technology, featuring a 1-quart saucepan and a 3.5-quart sauté pan for perfect vegetables, proteins, and side dishes.",
+            "product_image": "shopify://shop_images/product-media_1.png",
+            "price": "$96.0",
+            "compare_price": "$120.40",
+            "button_text": "Upgrade to Set",
+            "button_link": "",
+            "show_sale_badge": true
+          }
+        },
+        "quantity_selector_g6FEyA": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "custom_liquid_GWJjEK": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<script id=\"attn-waitlist-eligibility\" type=\"application/json\">{\n{%- liquid\nfor variant in product.variants\nassign eligibility = 'false'\nif variant.inventory_quantity <= 0\nassign eligibility = 'true'\nendif\nassign entry = '\"' | append: variant.id | append: '\":' | append: eligibility\nunless forloop.last\nassign entry = entry | append: ','\nendunless\n\necho entry\nendfor\n-%}\n}</script>\n<div id=\"attn-waitlist-trigger\"></div>"
+          }
+        },
+        "sales_point_HEPerc": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "free-tag",
+            "text": "Free Exchanges"
+          }
+        },
+        "sales_point_CdyhdB": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "exchange",
+            "text": "Free Shipping"
+          }
+        },
+        "sales_point_3TtEt9": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "return",
+            "text": "Lifetime Warranty"
+          }
+        },
+        "feature_media_Cwg4ij": {
+          "type": "feature-media",
+          "settings": {
+            "icon": "shopify://shop_images/microwave.svg",
+            "title": "Oven Safe Up To 500°",
+            "description": ""
+          }
+        },
+        "feature_media_B8QzPA": {
+          "type": "feature-media",
+          "settings": {
+            "icon": "shopify://shop_images/cold.svg",
+            "title": "Stay Cool Long Handle",
+            "description": ""
+          }
+        },
+        "feature_media_j7QKNj": {
+          "type": "feature-media",
+          "settings": {
+            "icon": "shopify://shop_images/Capa_1.svg",
+            "title": "Induction Capable",
+            "description": ""
+          }
+        },
+        "feature_media_z9aUNP": {
+          "type": "feature-media",
+          "settings": {
+            "icon": "shopify://shop_images/Capa_1_1_9534dc4d-a994-458b-a577-c343948025f3.svg",
+            "title": "Handcrafted in the U.S.A",
+            "description": ""
+          }
+        },
+        "video_media_kcwfqr": {
+          "type": "video-media",
+          "settings": {
+            "video_url": "",
+            "thumbnail": "",
+            "title": "",
+            "subtitle": "Chef's Tips",
+            "description": ""
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_star_rating_apkGiV",
+        "title",
+        "shortdetails_tUdhaq",
+        "615c3fca-3aaf-48d4-8f98-70af55b3903e",
+        "price",
+        "variant_picker",
+        "essentials_rJKBBL",
+        "quantity_selector_g6FEyA",
+        "buy_buttons",
+        "custom_liquid_GWJjEK",
+        "sales_point_HEPerc",
+        "sales_point_CdyhdB",
+        "sales_point_3TtEt9",
+        "feature_media_Cwg4ij",
+        "feature_media_B8QzPA",
+        "feature_media_j7QKNj",
+        "feature_media_z9aUNP",
+        "video_media_kcwfqr"
+      ],
+      "custom_css": [
+        ".custompromo {background-color: #990000; text-align: left; padding-top: 10px; padding-bottom: 20px; color: #ffffff; padding-left: 20px; padding-right: 20px;}",
+        ".custompromo a {color: #ffffff; font-size: 70%;}",
+        ".custompromo h3 {padding-top: 45px; margin-top: -10px; letter-spacing: -1px; font-weight: 500; font-size: 300%; line-height: 0; color: #ffffff;}",
+        ".b {font-size: 100%; padding-bottom: 0px; padding-top: 10px;}"
+      ],
+      "settings": {
+        "klaviyo_id": "WM3mUX",
+        "enable_sticky_info": false,
+        "media_size": "medium",
+        "constrain_to_viewport": false,
+        "show_thumbnailleft": true,
+        "media_fit": "cover",
+        "gallery_layout": "thumbnail",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "currency_code_enabled": true,
+        "padding_top": 0,
+        "padding_bottom": 80
+      }
+    },
+    "139d6e74a2b1c4b31b9f": {
+      "type": "apps",
+      "blocks": {
+        "f29f0c35-034a-40c8-b195-47026e66aecd": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "f29f0c35-034a-40c8-b195-47026e66aecd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1742900913d8d30b8e": {
+      "type": "apps",
+      "blocks": {
+        "yotpo_product_reviews_reviews_J8MzfU": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_reviews_J8MzfU"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "review-widget": {
+      "type": "product-review-widget",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "pdp_meta_benefits_slider_EydyPJ": {
+      "type": "pdp-meta-benefits-slider",
+      "blocks": {
+        "slide_GGNQYj": {
+          "type": "slide",
+          "settings": {
+            "title": "Pro-Grade Capacity",
+            "description": "Unleash your culinary creativity with this spacious 2-quart powerhouse!"
+          }
+        }
+      },
+      "block_order": [
+        "slide_GGNQYj"
+      ],
+      "settings": {
+        "heading": "One Tool, Lots of Benefits.",
+        "subheading": "Trusted in over <br>60,000 kitchens",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "pdp_faq_EaUb6y": {
+      "type": "pdp-faq",
+      "blocks": {
+        "faq_ereXFF": {
+          "type": "faq",
+          "settings": {
+            "que": "Care & Product Guides",
+            "ans": "<p>This guide will help you maximize your cookware's benefits, enabling healthier, delicious meals. Please review these care instructions before first use.<br/></p><p>See here: <a href=\"https://360table.myshopify.com/pages/use-care-guide\" target=\"_blank\" title=\"https://360table.myshopify.com/pages/use-care-guide\"><span style=\"text-decoration:underline\"><strong>Use & Care Guides</strong></span></a></p>",
+            "enable_metafiled": true,
+            "metafiled": "{% assign user_language = request.locale.iso_code %}\n        {{ product.metafields.CW360_faq.care__product_guides[user_language] }}",
+            "hide_tab": "hide-case"
+          }
+        }
+      },
+      "block_order": [
+        "faq_ereXFF"
+      ],
+      "settings": {
+        "title": "Dimensions  &amp; Specification",
+        "des": "",
+        "faq_title_1": "Full product details",
+        "faq_title_2": "What's included",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1726589780a38322d3": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product_chef_creations_eDUydU": {
+      "type": "Product-Chef-Creations",
+      "blocks": {
+        "video_block_7MFJXf": {
+          "type": "video_block",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "",
+            "video_url_mobile": ""
+          }
+        },
+        "video_block_gU7qVW": {
+          "type": "video_block",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "",
+            "video_url_mobile": ""
+          }
+        },
+        "video_block_izbyaz": {
+          "type": "video_block",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "",
+            "video_url_mobile": ""
+          }
+        },
+        "video_block_nrhPX9": {
+          "type": "video_block",
+          "settings": {
+            "enable_video_looping": false,
+            "video_url": "",
+            "video_url_mobile": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_block_7MFJXf",
+        "video_block_gU7qVW",
+        "video_block_izbyaz",
+        "video_block_nrhPX9"
+      ],
+      "settings": {
+        "background_color": "#f7f9fa",
+        "main_heading": "Chef Creations Cooked with 360",
+        "block_descrption": "Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "button_link": "shopify://collections/all",
+        "button_text": "Shop Now"
+      }
+    },
+    "pdp_second_faq_UB7EQD": {
+      "type": "pdp-second-faq",
+      "blocks": {
+        "faq_LDwKKe": {
+          "type": "faq",
+          "settings": {
+            "que": "Dolor sit amet, consectetur elit?",
+            "ans": "<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.</p>"
+          }
+        },
+        "faq_JrPet3": {
+          "type": "faq",
+          "settings": {
+            "que": "Class aptent taciti sociosqu?",
+            "ans": "<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.</p>"
+          }
+        },
+        "faq_B7ia9w": {
+          "type": "faq",
+          "settings": {
+            "que": "Korem ipsum dolor sit amet, consectetur adipiscing elit?",
+            "ans": "<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.</p>"
+          }
+        },
+        "faq_hkwrDq": {
+          "type": "faq",
+          "settings": {
+            "que": "Dolor sit amet, consectetur elit?",
+            "ans": "<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_LDwKKe",
+        "faq_JrPet3",
+        "faq_B7ia9w",
+        "faq_hkwrDq"
+      ],
+      "settings": {
+        "bgcolor": "#f7f9fa",
+        "title": "All Your Questions Answered",
+        "des": "Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Class aptent taciti sociosqu ad litora.",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "pdp_guide_VhfYGR": {
+      "type": "pdp-guide",
+      "blocks": {
+        "service_FVD8fN": {
+          "type": "service",
+          "settings": {
+            "icon_svg": "<svg width=\"50\" height=\"50\" viewbox=\"0 0 50 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"50\" height=\"50\" rx=\"25\" fill=\"#00406E\"></rect><path d=\"M14.5 22.9H35.5M16.6 22.9L17.1291 28.7204C17.3765 31.4416 17.5002 32.8021 18.4025 33.6261C19.3047 34.45 20.6709 34.45 23.4033 34.45H26.5967C29.329 34.45 30.6953 34.45 31.5976 33.6261C32.4998 32.8021 32.6235 31.4416 32.8709 28.7204L33.4 22.9M16.6 20.8L21.85 19.3821M21.85 19.3821L28.15 17.6805M21.85 19.3821L22.0659 17.5574C22.1449 16.8901 22.6189 16.3384 23.263 16.1645L25.3303 15.6061C25.9743 15.4322 26.6586 15.671 27.0579 16.2091L28.15 17.6805M28.15 17.6805L33.4 16.2625\" stroke=\"#FCFBF7\" stroke-width=\"1.5\" stroke-linecap=\"round\"></path></svg>",
+            "title": "Product Care Guide",
+            "description": "Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate consectetur libero et velit um interdum, ac aliquet.",
+            "link": "shopify://pages/use-care-guide",
+            "link_text": "Explore Now"
+          }
+        },
+        "service_qYRqKh": {
+          "type": "service",
+          "settings": {
+            "icon_svg": "<svg width=\"50\" height=\"50\" viewbox=\"0 0 50 50\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"50\" height=\"50\" rx=\"25\" fill=\"#566E7E\"></rect><path d=\"M14.5 22.9H35.5M16.6 22.9L17.1291 28.7204C17.3765 31.4416 17.5002 32.8021 18.4025 33.6261C19.3047 34.45 20.6709 34.45 23.4033 34.45H26.5967C29.329 34.45 30.6953 34.45 31.5976 33.6261C32.4998 32.8021 32.6235 31.4416 32.8709 28.7204L33.4 22.9M16.6 20.8L21.85 19.3821M21.85 19.3821L28.15 17.6805M21.85 19.3821L22.0659 17.5574C22.1449 16.8901 22.6189 16.3384 23.263 16.1645L25.3303 15.6061C25.9743 15.4322 26.6586 15.671 27.0579 16.2091L28.15 17.6805M28.15 17.6805L33.4 16.2625\" stroke=\"#FCFBF7\" stroke-width=\"1.5\" stroke-linecap=\"round\"></path></svg>",
+            "title": "Starting Guides",
+            "description": "Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate consectetur libero et velit um interdum, ac aliquet.",
+            "link": "shopify://pages/use-care-guide",
+            "link_text": "Explore Now"
+          }
+        },
+        "help_LXrqnN": {
+          "type": "help",
+          "settings": {
+            "title": "Need Help to Get Started?",
+            "description": "Praesent auctor purus luctus, ac scelerisque ante pulvinar. Class aptent taciti sociosqu ad litora.",
+            "link": "/",
+            "link_text": "Explore Now"
+          }
+        }
+      },
+      "block_order": [
+        "service_FVD8fN",
+        "service_qYRqKh",
+        "help_LXrqnN"
+      ],
+      "settings": {
+        "bgcolor": "#f7f9fa",
+        "padding_top": 52,
+        "padding_bottom": 100
+      }
+    },
+    "172500374596313ea4": {
+      "type": "apps",
+      "blocks": {
+        "yotpo_product_reviews_reviews_Jx8Wit": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_reviews_Jx8Wit"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "title": "Luc Vincent Bestsellers",
+        "collection": "",
+        "noOfProduct": 10,
+        "enable_quick_add": false
+      }
+    },
+    "recently_viewed_products_L4KVbG": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "title": "You May Also Like",
+        "image_ratio": "square",
+        "show_secondary_image": false
+      }
+    },
+    "recommendations_C8H7DX": {
+      "type": "recommendations",
+      "settings": {
+        "heading": "You May Also Like",
+        "heading_size": "h1",
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "139d6e74a2b1c4b31b9f",
+    "1742900913d8d30b8e",
+    "review-widget",
+    "pdp_meta_benefits_slider_EydyPJ",
+    "pdp_faq_EaUb6y",
+    "1726589780a38322d3",
+    "product_chef_creations_eDUydU",
+    "pdp_second_faq_UB7EQD",
+    "pdp_guide_VhfYGR",
+    "172500374596313ea4",
+    "related-products",
+    "recently_viewed_products_L4KVbG",
+    "recommendations_C8H7DX"
+  ]
+}
