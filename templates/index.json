@@ -280,7 +280,11 @@
           "settings": {
             "enable_video_looping": true,
             "video_url": "https://vimeo.com/1015538731?share=copy",
+            "cover_image": "shopify://shop_images/Image_61_2.webp",
+            "cover_image_mobile": "shopify://shop_images/Image_51_1.webp",
+            "reviews_image": "shopify://shop_images/rat.png",
             "auther_message": "Great cookware, makes the food amazing! Easy to clean! Love it!",
+            "auther_image": "shopify://shop_images/photo_middle_age_woman_avatar_7.webp",
             "auther_name": "Eileen M.",
             "auther_verification": "Verified Buyer"
           }
@@ -290,7 +294,11 @@
           "settings": {
             "enable_video_looping": true,
             "video_url": "https://vimeo.com/1015538814?share=copy#t=0",
+            "cover_image": "shopify://shop_images/Image_52.webp",
+            "cover_image_mobile": "shopify://shop_images/Image_52_1.webp",
+            "reviews_image": "shopify://shop_images/rat.png",
             "auther_message": "Can’t say enough good things about it! Highly recommend!",
+            "auther_image": "shopify://shop_images/Frame_5627_3.webp",
             "auther_name": "Alan B.",
             "auther_verification": "Verified Buyer"
           }
@@ -301,7 +309,9 @@
             "banner_heading": "Cook Like a Pro",
             "banner_description": "Premium pots and pans for culinary mastery. Durable, efficient, and designed for perfection.",
             "banner_link": "shopify://collections/cookware",
-            "banner_button_text": "Shop Cookware"
+            "banner_button_text": "Shop Cookware",
+            "desktop_image": "shopify://shop_images/image_2.png",
+            "mobile_image": "shopify://shop_images/image_2-1.png"
           }
         },
         "banner_MTCixE": {
