@@ -88,6 +88,8 @@
         "image_text_qGyTLR": {
           "type": "image-text",
           "settings": {
+            "image": "shopify://shop_images/catalog-product-1_2.png",
+            "mobileimage": "shopify://shop_images/catalog-product-1-mobile_2.png",
             "title": "Cookware",
             "details": "Premium American-made stainless steel cookware for unparalleled performance.",
             "buttondesktop": "Shop Cookware",
@@ -99,6 +101,8 @@
         "image_text_tg9VMK": {
           "type": "image-text",
           "settings": {
+            "image": "shopify://shop_images/catalog-product-2_2.png",
+            "mobileimage": "shopify://shop_images/catalog-product-2-mobile_2.png",
             "title": "Bakeware",
             "details": "Professional-grade USA-crafted stainless steel bakeware for superior results.",
             "buttondesktop": "Shop Bakeware",
@@ -110,6 +114,8 @@
         "image_text_nTz7be": {
           "type": "image-text",
           "settings": {
+            "image": "shopify://shop_images/catalog-product-4_2.png",
+            "mobileimage": "shopify://shop_images/catalog-product-4-mobile_2.png",
             "title": "Save on Sets",
             "details": "Comprehensive USA-made stainless steel sets for lasting kitchen quality.",
             "buttondesktop": "Shop Sets",
@@ -121,6 +127,8 @@
         "image_text_JzXXnB": {
           "type": "image-text",
           "settings": {
+            "image": "shopify://shop_images/catalog-product-3_2.png",
+            "mobileimage": "shopify://shop_images/catalog-product-3-mobile_2.png",
             "title": "Tools & Accessories",
             "details": "Meticulously crafted American stainless steel tools to enhance cooking.",
             "buttondesktop": "Shop Tools <span class=\"desktop_none\">& Accessories</span>",
