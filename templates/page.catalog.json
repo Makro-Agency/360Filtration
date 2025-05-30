@@ -369,6 +369,8 @@
         "text_rJkHh6"
       ],
       "settings": {
+        "bgimage": "shopify://shop_images/backware-2_2.png",
+        "imagemobile": "shopify://shop_images/backware-mobile-2_2.png",
         "title": "Save on Sets",
         "heading_size": "h1",
         "description": "<p>Embarking on a new culinary journey or upgrading your kitchen arsenal? Our carefully curated sets have you covered.</p>",
