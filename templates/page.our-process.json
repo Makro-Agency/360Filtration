@@ -208,6 +208,7 @@
         "content_block_gEXLem"
       ],
       "settings": {
+        "image": "shopify://shop_images/Frame_6135_2.png",
         "title": "Redefining the American Kitchen: Quality, Health, and Sustainability United"
       }
     },
@@ -250,7 +251,8 @@
         "process_item_right_maccQP"
       ],
       "settings": {
-        "title": "Our Green Manufacturing Promise"
+        "title": "Our Green Manufacturing Promise",
+        "svgicon": "shopify://shop_images/leaf-table.svg"
       }
     },
     "home_cookware_ktUFfg": {
@@ -260,6 +262,8 @@
           "type": "image_block",
           "settings": {
             "enable_video_looping": false,
+            "cover_image": "shopify://shop_images/Image_fd1d78c0-d7b0-4c5b-8f8b-ed2f2f8a74c7_4.png",
+            "cover_image_mobile": "shopify://shop_images/Image_fd1d78c0-d7b0-4c5b-8f8b-ed2f2f8a74c7_5.png",
             "reviews_image": "shopify://shop_images/str-rating.svg",
             "auther_message": "“I've cooked with this cookware for over 15 years, and it still looks as good as the day I bought it. My husband and I cook all our meals at home, and we are constantly amazed at how easy it is to clean up after even the stickiest of meals.”",
             "auther_image": "shopify://shop_images/check-verified_4.svg",
@@ -272,6 +276,8 @@
           "type": "image_block",
           "settings": {
             "enable_video_looping": false,
+            "cover_image": "shopify://shop_images/Image_a8ec91ee-be91-4027-a443-b559b2fd82e5_4.png",
+            "cover_image_mobile": "shopify://shop_images/Image_a8ec91ee-be91-4027-a443-b559b2fd82e5_5.png",
             "reviews_image": "shopify://shop_images/str-rating.svg",
             "auther_message": "\"The quality of these pans is unmatched. They heat evenly, clean up easily, and have made cooking a joy again. Plus, knowing they're made in the USA with sustainable practices makes me feel good about my purchase.\"",
             "auther_image": "shopify://shop_images/check-verified_4.svg",
@@ -284,6 +290,8 @@
           "type": "image_block",
           "settings": {
             "enable_video_looping": false,
+            "cover_image": "shopify://shop_images/LumixSync_copy_2023-01-05_20_28_43_0000JpegFile_1_4.png",
+            "cover_image_mobile": "shopify://shop_images/LumixSync_copy_2023-01-05_20_28_43_0000JpegFile_1_5.png",
             "reviews_image": "shopify://shop_images/str-rating.svg",
             "auther_message": "“As a nutritionist, I'm thrilled to recommend 360 Cookware to my clients. It's the perfect blend of safe, non-toxic materials and superior cooking performance. My family enjoys healthier, more flavorful meals without worrying about harmful chemicals leaching into our food.”",
             "auther_image": "shopify://shop_images/check-verified_4.svg",
@@ -303,7 +311,8 @@
         "banner_heading": "",
         "banner_description": "2% Reduced carbon footprint \nof local production",
         "banner_link": "shopify://pages/catalog",
-        "banner_button_text": "Bring American Craftsmanship to Your Kitchen"
+        "banner_button_text": "Bring American Craftsmanship to Your Kitchen",
+        "icon": "shopify://shop_images/Frame_6175_d6c33a1a-9341-4025-bbbc-4279b9215ca2.png"
       }
     },
     "custom_support_block_D8tC7B": {
