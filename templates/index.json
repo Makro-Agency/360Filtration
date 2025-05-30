@@ -320,7 +320,9 @@
             "banner_heading": "Bake Like a Pro",
             "banner_description": "Top-tier baking essentials. Precision-crafted for consistently delicious results.",
             "banner_link": "shopify://collections/collection-demo",
-            "banner_button_text": "Shop Bakeware"
+            "banner_button_text": "Shop Bakeware",
+            "desktop_image": "shopify://shop_images/bake-it-happen.png",
+            "mobile_image": "shopify://shop_images/bake-it-happen-1.png"
           }
         },
         "videowise_xUHGmi": {
