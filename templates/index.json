@@ -353,12 +353,14 @@
     "stainless_steel_pan_CcPLF7": {
       "type": "stainless-steel-pan",
       "settings": {
-        "desktop_image": "shopify://shop_images/15_piece_set_1_057a7bdc-8dc3-41b9-94f4-10d3d5caf9ec.png",
-        "mobile_image": "shopify://shop_images/15_piece_set_1_1.png",
+        "desktop_image": "shopify://shop_images/15_piece_set_1_057a7bdc-8dc3-41b9-94f4-10d3d5caf9ec_1.png",
+        "mobile_image": "shopify://shop_images/15_piece_set_1_1_2.png",
         "videowise": "",
         "image_alt_text": "",
         "subtitle_text": "Cook confidently for years to come",
+        "review_image": "shopify://shop_images/Frame_6176.png",
         "review_message": "Great cookware, makes the food amazing! Easy to clean! Love it!",
+        "author_image": "shopify://shop_images/photo_middle_age_woman_avatar.png",
         "author_name": "Eileen M.",
         "verification_text": "Verified Buyer",
         "custom_heading_text": "Fabulous company that stands behind its products. We have purchased a couple of pans and will be getting more!",
@@ -381,6 +383,7 @@
         "image_with_text_YbYCbe": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/get-start-1.png",
             "title": "Cookware",
             "text": "Horem ipsum dolor sit amet, consectetur adipiscing elit.",
             "link": "shopify://collections/collection-demo",
@@ -390,6 +393,7 @@
         "image_with_text_MqF7KK": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/get-start-2.png",
             "title": "Bakeware",
             "text": "Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
             "link": "shopify://collections/collection-demo",
@@ -399,6 +403,7 @@
         "image_with_text_JFAVYi": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/get-start-3.png",
             "title": "Tools & Accessories",
             "text": "Horem ipsum dolor sit amet, consectetur adipiscing elit.",
             "link": "shopify://collections/collection-demo",
@@ -408,6 +413,7 @@
         "image_with_text_DgJVkn": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/get-start-4.png",
             "title": "Save on Sets",
             "text": "Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
             "link": "shopify://collections/collection-demo",
@@ -500,6 +506,8 @@
     "makro_text_banner_KBAPgt": {
       "type": "makro-text-banner",
       "settings": {
+        "image": "shopify://shop_images/Frame_5643.jpg",
+        "image_mobile": "shopify://shop_images/unleash-2.jpg",
         "title": "Unleash Your Inner Chef",
         "description": "<p>Transform every home-cooked meal into a gourmet experience with 360 Cookware. Our high-quality tools empower you to reach your culinary potential and delight your loved ones with flawless dishes.</p>",
         "btn_text": "Shop Now",
@@ -514,7 +522,7 @@
       "settings": {
         "title": "360 Bestsellers",
         "description": "Our high-quality tools empower you to reach your culinary potential and delight your loved ones with flawless dishes.",
-        "collection": "collection-demo",
+        "collection": "bakeware",
         "button_text": "Shop All Bestsellers",
         "button_link": "shopify://collections/collection-demo",
         "button_enable": true,
