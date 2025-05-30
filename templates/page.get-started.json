@@ -318,6 +318,8 @@
         "article_card_iYXW4e": {
           "type": "article_card",
           "settings": {
+            "desktop_image": "shopify://shop_images/Image_29_3.png",
+            "mobile_image": "shopify://shop_images/Image_29_3.png",
             "heading": "Stainless Steel or Nonstick: Transforming Kitchens with 360 Cookware",
             "description": "Whether you’re buying cookware for the first time, or planning a major upgrade to your kitchen equipment, it’s worth investing in pots and pans that will stand the test of time and provide superior performance. Two of the main contenders are nonstick and stainless steel: which material is the best for the home cook?",
             "link": "shopify://blogs/360-cookware-blog"
@@ -326,6 +328,8 @@
         "article_card_AFGKk6": {
           "type": "article_card",
           "settings": {
+            "desktop_image": "shopify://shop_images/blog_2_1_2.png",
+            "mobile_image": "shopify://shop_images/blog_2_mob_48f78d06-f7e4-4e85-9816-6fbc23ab3a46_1.png",
             "heading": "From Kitchen to Table: Recipes of Gourmet Meals at Home",
             "description": "Savor the perfect chicken recipe to fill your family.",
             "link": "shopify://blogs/360-cookware-blog"
@@ -334,6 +338,8 @@
         "article_card_i9kVMg": {
           "type": "article_card",
           "settings": {
+            "desktop_image": "shopify://shop_images/blog_3_1_3.png",
+            "mobile_image": "shopify://shop_images/blog_3_3c0f8a85-22d2-4749-80ff-121b1bfd3ad7_1.png",
             "heading": "Lifetime Warranty: What It Means and Why It Matters",
             "description": "Enjoy peace of mind with our comprehensive lifetime warranty, covering defects in materials and workmanship for as long as you own the product.",
             "link": "shopify://pages/lifetime-warranty-1"
@@ -380,6 +386,7 @@
         "bottom_block_KhLPxR": {
           "type": "bottom-block",
           "settings": {
+            "icon": "shopify://shop_images/cookingware.svg",
             "title": "Product Care Guide",
             "des": "<p>Learn how to properly use and  maintain your cookware for optimal performance and longevity.</p>",
             "btn-text": "Exlpore Now",
@@ -389,7 +396,7 @@
         "bottom_block_HHQHjV": {
           "type": "bottom-block",
           "settings": {
-            "icon": "shopify://shop_images/Frame_6175-2.svg",
+            "icon": "shopify://shop_images/Frame_6175-2_1.svg",
             "title": "Explore the Catalog",
             "des": "<p>Discover our full range of cookware, bakeware, and accessories</p>",
             "btn-text": "Explore Now",
@@ -399,6 +406,7 @@
         "bottom_block_9CeQND": {
           "type": "bottom-block",
           "settings": {
+            "icon": "shopify://shop_images/circle-with-tick_795fe1b6-9dd0-451f-8356-65d18cdc710c.svg",
             "title": "Articles & Recipes",
             "des": "<p>Unlock your cooking potential with expert tips, tricks, and delicious recipes tailored for 360 Cookware.</p>",
             "btn-text": "Explore Now",
@@ -476,6 +484,8 @@
         "recipe_description": "Indulge in a perfect blend of savory and sweet with our Apple Chicken with Scallions recipe. This quick and easy dish combines tender chicken pieces with the crisp freshness of apples and scallions, all brought together in a delightfully tangy apple cider vinegar sauce.",
         "pdptitle": "What You'll Need:",
         "product": "maple-2-inch-condiment-cups",
+        "recipe_image_1": "shopify://shop_images/Image_22_3.png",
+        "recipe_image_2": "shopify://shop_images/Image_21_e9715daa-3d2f-4b11-8bc8-50944f4979d7_2.png",
         "button_link": "shopify://blogs/360-cookware-blog",
         "button_text": "Make This Now"
       }
