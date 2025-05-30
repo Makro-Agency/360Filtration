@@ -125,7 +125,6 @@
         "feature_media_z9aUNP": {
           "type": "feature-media",
           "settings": {
-            "icon": "shopify://shop_images/Capa_1_1_9534dc4d-a994-458b-a577-c343948025f3.svg",
             "title": "Handcrafted in the U.S.A",
             "description": ""
           }
@@ -134,7 +133,6 @@
           "type": "video-media",
           "settings": {
             "video_url": "",
-            "thumbnail": "",
             "title": "",
             "subtitle": "Chef's Tips",
             "description": ""
@@ -208,7 +206,7 @@
         "yotpo_product_reviews_reviews_J8MzfU": {
           "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
           "settings": {
-            "product": ""
+            "product": "maple-2-inch-condiment-cups"
           }
         }
       },
