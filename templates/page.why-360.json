@@ -314,8 +314,11 @@
         "review_BLLfHq": {
           "type": "review",
           "settings": {
+            "stars": "shopify://shop_images/str-rating.svg",
             "review_text": "If used properly these pans work wonderfully. Made in USA, healthier to use than other types of materials, easy cleaning. Never wear out. What's not to like?",
+            "client_image": "shopify://shop_images/check-verified_4.svg",
             "client_name": "Kathy T.",
+            "reviewbyicon": "shopify://shop_images/check_3.png",
             "reviewby": "Verified Buyer"
           }
         }
