@@ -114,6 +114,7 @@
       "type": "custom-testimonial",
       "settings": {
         "testimonial_quote": "\"Cookware is a fundamental tool- one that should never be coated, toxic or disposable. If it doesn’t enhance your culinary experience, it isn’t 360 Cookware.\"",
+        "author_image": "shopify://shop_images/IMG_0002_2.jpg",
         "author_name": "Bryan Hurley",
         "author_title": "Founder",
         "author_sign": "Bryan Hurley"
@@ -125,6 +126,7 @@
         "grid_item_RwVTDq": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify://shop_images/Image_14_2.png",
             "image_alt": "Craftsmanship Detail:Vapor® Seal Technology",
             "grid_title": "Vapor® Seal Technology",
             "grid_text": "The precision-fitted lids create a vapor seal, locking in moisture and nutrients for healthier, more flavorful meals."
@@ -133,6 +135,7 @@
         "grid_item_EXeFHT": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify://shop_images/Image_15_aa58c865-2484-4ca4-9213-f637123cdc0b_2.png",
             "image_alt": "Craftsmanship Detail: Ergonomic Handles",
             "grid_title": "Ergonomic Handles",
             "grid_text": "Carefully designed for comfort and balance, our stay-cool handles make cooking and maneuvering a breeze, even with heavier dishes."
@@ -141,6 +144,7 @@
         "grid_item_FXKLyz": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify://shop_images/Image_16_7993868b-db21-4c00-96b8-f02c6ad90e4e_2.png",
             "image_alt": "Craftsmanship Detail",
             "grid_title": "Dry-Sanded Finish",
             "grid_text": "Our unique dry-sanding process creates a non-porous cooking surface that's naturally non-stick and easy to clean, without the need for harmful coatings."
@@ -149,6 +153,7 @@
         "grid_item_ibtMFK": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify://shop_images/Image_17_b20a3e31-422d-4d39-afb2-a9ae15e4bcee_2.png",
             "image_alt": "Craftsmanship Detail: Tri-Ply Construction",
             "grid_title": "Tri-Ply Construction",
             "grid_text": "Our cookware features a unique three-layer design with an aluminum core sandwiched between T-304 surgical grade stainless steel, ensuring optimal heat distribution and durability."
