@@ -522,7 +522,7 @@
       "settings": {
         "title": "360 Bestsellers",
         "description": "Our high-quality tools empower you to reach your culinary potential and delight your loved ones with flawless dishes.",
-        "collection": "bakeware",
+        "collection": "frontpage",
         "button_text": "Shop All Bestsellers",
         "button_link": "shopify://collections/collection-demo",
         "button_enable": true,
